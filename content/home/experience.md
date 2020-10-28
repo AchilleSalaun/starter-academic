@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   date_start = "2017-09-01"
   date_end = "2020-11-01"
   description = """
-    Supervised labs sessions for a course about _Scientific Calculus_ (Master 1) and an other about _Image Segmentation with Hidden Markov Models_ (Master 2)
+  Supervised labs sessions for a course about "Scientific Calculus" (Master 1) and an other about "Image Segmentation with Hidden Markov Models" (Master 2).
   """
 
 +++
