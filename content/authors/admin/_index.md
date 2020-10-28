@@ -1,17 +1,21 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Achille Salaün
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student 
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Telecom SudParis
+  url: "https://samovar.telecom-sudparis.eu/"
+- name: Nokia Bell Labs
+  url: "https://www.bell-labs.com/"
+- name: LINCS
+  url: "https://www.lincs.fr/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
