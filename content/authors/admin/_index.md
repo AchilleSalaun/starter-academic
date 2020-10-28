@@ -30,11 +30,11 @@ education:
 #  - course: PhD "Alarm Prediction in Networks"
 #    institution: Telecom SudParis, Nokia Bell Labs
 #    year: 2017-2021
-  - course: Master's degree in Data Science and Engineering
-    institution: EURECOM
+  - course: EURECOM
+    institution: Master's degree in Data Science and Engineering
     year: 2015-2017
-  - course: Master's degree in Data Science and Engineering
-    institution: Télécom Paris
+  - course: Télécom Paris
+    institution: Diplôme d'ingénieur
     year: 2014-2017
 
 # Social/Academic Networking
