@@ -45,14 +45,14 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/achille-sala%C3%BCn-6053b2b9/
 #- icon: google-scholar
 #  icon_pack: ai
 - icon: fa-scroll
   icon_pack: fas
   link: https://scholar.google.com/citations?user=iqXXYz4AAAAJ
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/achille-sala%C3%BCn-6053b2b9/
 - icon: github
   icon_pack: fab
   link: https://github.com/AchilleSalaun
