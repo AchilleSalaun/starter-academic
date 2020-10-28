@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:achillesalaun@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: scroll
   icon_pack: fas
   link: https://scholar.google.com/citations?user=iqXXYz4AAAAJ
@@ -61,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "mailto:achillesalaun@gmail.com"
+email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
