@@ -48,8 +48,10 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/achille-sala%C3%BCn-6053b2b9/
-- icon: google-scholar
-  icon_pack: ai
+#- icon: google-scholar
+#  icon_pack: ai
+- icon: scroll
+  icon_pack: fas
   link: https://scholar.google.com/citations?user=iqXXYz4AAAAJ
 - icon: github
   icon_pack: fab
