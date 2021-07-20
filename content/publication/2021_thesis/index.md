@@ -1,5 +1,5 @@
 ---
-title: "Log analysis via space-time pattern matching"
+title: "Alarm prediction in networks via space-time pattern matching and machine learning"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -61,7 +61,7 @@ expressivity by encompassing them into a probabilistic model, called GUM."
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Machine learning, Networks, Alarm prediction, Pattern matching]
+tags: [Machine learning, Networks, Alarm prediction, Pattern matching, Hidden Markov Models, Recurrent Neural Networks]
 
 # Display this page in the Featured widget?
 featured: true
