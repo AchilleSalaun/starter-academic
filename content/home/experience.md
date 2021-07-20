@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_start = "2017-09-01"
   date_end = "2020-11-01"
   description = """
-  Supervised labs sessions for a course about "Scientific Calculus" (Master 1) and an other about "Image Segmentation with Hidden Markov Models" (Master 2).
+  I supervised labs sessions for a course about "Scientific Calculus" (Master 1) and an other about "Image Segmentation with Hidden Markov Models" (Master 2).
   """
 
 [[experience]]
@@ -37,6 +37,6 @@ date_format = "Jan 2006"
   date_start = "2017-03-01"
   date_end = "2017-09-01"
   description = """
-  Supervised by Pr. Thomas Bonald.
+  Under the supervision of Pr. Thomas Bonald.
   """
 +++
