@@ -15,11 +15,11 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2020-07-31T00:00:00Z"
+date: "2018-11-06T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+#publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -31,7 +31,16 @@ publication_types: ["1"]
 publication: "In *CNSM 2018: 14th International Conference on Network and Service Management*"
 publication_short: In *CNSM 2018*
 
-#abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Increasing size and complexity of telecommunication networks make troubleshooting 
+and network management more and more critical. 
+As analyzing a log is cumbersome and time consuming, 
+experts need tools helping them to quickly pinpoint the root cause when a problem arises. 
+A structure called DIG-DAG able to store chain of alarms in a compact manner according 
+to an input log has recently been proposed. 
+Unfortunately, for large logs, this structure may be huge, 
+and thus hardly readable for experts. To circumvent this problem, 
+this paper proposes a framework allowing to query a DIG-DAG in order to extract patterns 
+of interest, and a full methodology for end-to-end analysis of a log.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -87,4 +96,4 @@ projects:
 #{{% /callout %}}
 #
 #Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
----
+---000
