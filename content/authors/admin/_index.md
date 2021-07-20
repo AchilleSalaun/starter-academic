@@ -30,13 +30,13 @@ interests:
 education:
   courses:
   - course: PhD's degree in Mathematics at interfaces
-    institution: [Télécom SudParis](https://samovar.telecom-sudparis.eu/), [Nokia Bell Labs](http://www.bell-labs.com/)
+    institution: "[Télécom SudParis](https://samovar.telecom-sudparis.eu/), [Nokia Bell Labs](http://www.bell-labs.com/)"
     year: 2017-2021
   - course: Master's degree in Data Science and Engineering 
-    institution: [EURECOM](https://www.eurecom.fr/)
+    institution: "[EURECOM](https://www.eurecom.fr/)"
     year: 2015-2017
   - course:  Diplôme d'ingénieur
-    institution: [Télécom Paris](https://www.telecom-paris.fr/)
+    institution: "[Télécom Paris](https://www.telecom-paris.fr/)"
     year: 2014-2017
 
 # Social/Academic Networking
