@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 50  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -17,16 +17,6 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "Research Internship : Community Detection in Graphs"
-  company = "Télécom Paris"
-  company_url = ""
-  location = "Paris, France"
-  date_start = "2017-03-01"
-  date_end = "2017-09-01"
-  description = """
-  Supervised by Pr. Thomas Bonald.
-  """
 
 [[experience]]
   title = "Teaching"
@@ -39,4 +29,14 @@ date_format = "Jan 2006"
   Supervised labs sessions for a course about "Scientific Calculus" (Master 1) and an other about "Image Segmentation with Hidden Markov Models" (Master 2).
   """
 
+[[experience]]
+  title = "Research Internship : Community Detection in Graphs"
+  company = "Télécom Paris"
+  company_url = ""
+  location = "Paris, France"
+  date_start = "2017-03-01"
+  date_end = "2017-09-01"
+  description = """
+  Supervised by Pr. Thomas Bonald.
+  """
 +++
