@@ -31,7 +31,8 @@ publication_types: ["1"]
 publication: "In *CNSM 2018: 14th International Conference on Network and Service Management*"
 publication_short: In *CNSM 2018*
 
-abstract: Increasing size and complexity of telecommunication networks make troubleshooting 
+abstract: """
+Increasing size and complexity of telecommunication networks make troubleshooting 
 and network management more and more critical. 
 As analyzing a log is cumbersome and time consuming, 
 experts need tools helping them to quickly pinpoint the root cause when a problem arises. 
@@ -41,6 +42,7 @@ Unfortunately, for large logs, this structure may be huge,
 and thus hardly readable for experts. To circumvent this problem, 
 this paper proposes a framework allowing to query a DIG-DAG in order to extract patterns 
 of interest, and a full methodology for end-to-end analysis of a log.
+"""
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
