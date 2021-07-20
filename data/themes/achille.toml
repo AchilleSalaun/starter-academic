@@ -2,7 +2,7 @@
 name = "Achille"
 
 # Is theme light or dark?
-light = dark
+light = false
 
 # Primary
 primary = "#1565c0"
