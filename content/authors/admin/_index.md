@@ -10,8 +10,8 @@ role: PhD in mathematics at interfaces
 
 # Organizations/Affiliations
 organizations:
-- name: Institut Polytechnique de Paris
-  url: "https://https://www.ip-paris.fr/en/"
+#- name: Institut Polytechnique de Paris
+#  url: "https://https://www.ip-paris.fr/en/"
 #- name: Telecom SudParis
 #  url: "https://samovar.telecom-sudparis.eu/"
 #- name: Nokia Bell Labs
@@ -20,7 +20,7 @@ organizations:
 #  url: "https://www.lincs.fr/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include ...
+#bio: My research interests include ...
 
 interests:
 - Machine Learning
@@ -30,13 +30,13 @@ interests:
 education:
   courses:
   - course: PhD's degree in Mathematics at interfaces
-    institution: Télécom SudParis, Nokia Bell Labs
+    institution: [Télécom SudParis](https://samovar.telecom-sudparis.eu/), [Nokia Bell Labs](http://www.bell-labs.com/)
     year: 2017-2021
   - course: Master's degree in Data Science and Engineering 
-    institution: EURECOM
+    institution: [EURECOM](https://www.eurecom.fr/)
     year: 2015-2017
   - course:  Diplôme d'ingénieur
-    institution: Télécom Paris
+    institution: [Télécom Paris](https://www.telecom-paris.fr/)
     year: 2014-2017
 
 # Social/Academic Networking
