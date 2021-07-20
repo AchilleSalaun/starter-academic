@@ -30,13 +30,13 @@ interests:
 education:
   courses:
   - course: PhD's degree in Mathematics at interfaces
-    institution: "[Télécom SudParis](https://samovar.telecom-sudparis.eu/), [Nokia Bell Labs](http://www.bell-labs.com/)"
+    institution: Télécom SudParis, Nokia Bell Labs
     year: 2017-2021
   - course: Master's degree in Data Science and Engineering 
-    institution: "[EURECOM](https://www.eurecom.fr/)"
+    institution: EURECOM
     year: 2015-2017
   - course:  Diplôme d'ingénieur
-    institution: "[Télécom Paris](https://www.telecom-paris.fr/)"
+    institution: Télécom Paris
     year: 2014-2017
 
 # Social/Academic Networking
@@ -75,7 +75,7 @@ user_groups:
 - Visitors
 ---
 
-I recently defend my thesis and am eager to make my next step in the research world !
+I recently defend my thesis and am eager to make my next step in the research world!
 In particular, I feel I have still a lot to discover both from a human and scientific perspective.
 Therefore, I am currently looking for a postDoc abroad (ideally in Eastern Asia).
 
