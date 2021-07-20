@@ -10,7 +10,7 @@ role: PhD in mathematics at interfaces
 
 # Organizations/Affiliations
 organizations:
-- name: Institut Polytechnique de PAris
+- name: Institut Polytechnique de Paris
   url: "https://https://www.ip-paris.fr/en/"
 #- name: Telecom SudParis
 #  url: "https://samovar.telecom-sudparis.eu/"
