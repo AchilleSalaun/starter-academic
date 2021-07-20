@@ -29,7 +29,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Mathematics at interfaces
+  - course: PhD's degree in Mathematics at interfaces
     institution: Télécom SudParis, Nokia Bell Labs
     year: 2017-2021
   - course: Master's degree in Data Science and Engineering 
@@ -79,18 +79,9 @@ I recently defend my thesis and am eager to make my next step in the research wo
 In particular, I feel I have still a lot to discover both from a human and scientific perspective.
 Therefore, I am currently looking for a postDoc abroad (ideally in Eastern Asia).
 
-My PhD is about predicting alarms in networks through space-time pattern matching and machine learning.
-It is an industrial PhD between 
-[SAMOVAR (Télécom SudParis)](https://samovar.telecom-sudparis.eu/) 
-and [Nokia Bell Labs](http://www.bell-labs.com/),
-supervised by 
-[François Desbouvries](http://www-public.it-sudparis.eu/~desbouvr/), 
-[Anne Bouillard](https://www.lincs.fr/people/anne-bouillard/), 
-[Marc-Olivier Buob](http://marcolivier.buob.pagesperso-orange.fr/), 
-and [Yohan Petetin](http://www-public.imtbs-tsp.eu/~petetin/).
-
 These years have been the opportunity for me to cross various scientific domains 
 such as pattern matching and generative models 
 applied to alarm log analysis in telecommunication networks.
-I would like to enlarge my understanding of these fields by tackling new applications and new problems.
+I really liked this multidisciplinary aspect,
+so I would like to enlarge my understanding of these fields by tackling new applications and new problems!
 
