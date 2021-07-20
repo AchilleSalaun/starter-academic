@@ -31,16 +31,13 @@ publication_types: ["1"]
 publication: "In *CNSM 2018: 14th International Conference on Network and Service Management*"
 publication_short: In *CNSM 2018*
 
-abstract: "Increasing size and complexity of telecommunication networks make troubleshooting 
-and network management more and more critical. 
-As analyzing a log is cumbersome and time consuming, 
-experts need tools helping them to quickly pinpoint the root cause when a problem arises. 
-A structure called DIG-DAG able to store chain of alarms in a compact manner according 
-to an input log has recently been proposed. 
-Unfortunately, for large logs, this structure may be huge, 
-and thus hardly readable for experts. To circumvent this problem, 
-this paper proposes a framework allowing to query a DIG-DAG in order to extract patterns 
-of interest, and a full methodology for end-to-end analysis of a log."
+abstract: "This paper proposes a new methodology inspired from pattern matching and able to find alarm correlations 
+with or without prior knowledge about the monitored system. 
+The data structure can store every observed pattern of correlated alarms by processing logs online. 
+It can be queried to extract the patterns of alarms leading to an arbitrary failure. 
+First, we propose a framework able to represent alarm logs according to spatio-temporal dependencies. 
+Second, we design a new scalable data structure, able to store every observed pattern of alarms, and validate it by simulation. 
+Third, we show how to exploit this data structure for fault diagnosis."
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
