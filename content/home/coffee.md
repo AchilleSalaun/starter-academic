@@ -25,13 +25,15 @@ design:
 The recent pandemy definitely taught us that social relationships are precious
 both from a personal and scientific point of view.
 Therefore, here is a small suggestion of topics I would be happy to discuss 
-if we meet around a cup of coffee (it can be a glass of water too):
+if we meet around a cup of coffee (it can be a glass of water as well):
 
-- Of course, we can chat about science: either your current research or mine.
-- I really like Arts. I am keen on visiting museums and drawing on my pen tablet. 
-By the way, you can have a look about my art on my social medias 
-([{{< icon name="instagram" pack="fab" >}}](https://www.instagram.com/achillesalaun/)
- [{{< icon name="artstation" pack="fab" >}}](https://www.artstation.com/achille_salaun))!
-- 
+- Of course, we can chat about **science**. 
+I would be glad to know more about your current research 
+and answer any of your questions about mine.
+- I am keen on visiting museums and **drawing** on my pen tablet. 
+By the way, did you have a look at my art
+[{{< icon name="instagram"  pack="fab" >}}](https://www.instagram.com/achillesalaun/)
+[{{< icon name="artstation" pack="fab" >}}](https://www.artstation.com/achille_salaun)?
+- I used to do **fencing** until the pandemy struck. Hope I can go back on pistes soon !
 
 
