@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+weight = 60  # Order that this section will appear.
 
 title = "Experiences"
 subtitle = ""
@@ -64,7 +64,7 @@ These courses were respectively coordinated by Yohan Petetin, and Wojciech Piecz
   date_start = "2017-03-01"
   date_end = "2017-09-01"
   description = """
-This internship, supervised by Pr. Thomas Bonald, has been a great environment to play with Louvain algorithm and modularity.
+This internship, supervised by Pr. Thomas Bonald, provided a great environment to play with Louvain algorithm and modularity.
 """
 
 [[experience]]
