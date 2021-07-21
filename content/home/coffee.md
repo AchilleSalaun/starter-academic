@@ -29,14 +29,11 @@ if we meet around a cup of coffee (it can be a glass of water as well):
 
 Of course, we can chat about **science**. 
 I would be glad to know more about your current research 
-and answer any of your questions about mine.
-![whatever](whatever.jpg#floatright)
+and answer any of your questions about mine. ![whatever](./assets/media/whatever.jpg#floatright)
 
-![whatever](whatever.jpg#floatleft)
-I am keen on visiting museums and **drawing** on my pen tablet. 
+![whatever](whatever.jpg#floatleft) I am keen on visiting museums and **drawing** on my pen tablet. 
 By the way, did you have a look at my art
 [{{< icon name="instagram"  pack="fab" >}}](https://www.instagram.com/achillesalaun/)
 [{{< icon name="artstation" pack="fab" >}}](https://www.artstation.com/achille_salaun)?
 
-I used to do **fencing** until the pandemy struck. I hope I can go back on pistes soon !
-![whatever](whatever.jpg#floatright)
+I used to do **fencing** until the pandemy struck. I hope I can go back on pistes soon ! ![whatever](whatever.jpg#floatright)
