@@ -1,15 +1,27 @@
 ---
+# An instance of the Blank widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
 widget: blank
-headless: true
-active: true
 
-# ... Put Your Section Options Here (title etc.) ...
-title: Coffee break
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 1
+
+# Section title
+title: Coffe break
+# Section subtitle
 subtitle:
-weight: 80  # section position on page
+
+# Section design
 design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '2'
+  # Use a 1-column layout
+  columns: "1"
+  # Use a dark navy background with light text.
+  background:
+    color: 'navy'
+    text_color_light: true
 ---
 
-Add any content here - text, images, videos, galleries - and even HTML code!
+Add any content to the body of the section here.
