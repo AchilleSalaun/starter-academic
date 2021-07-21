@@ -34,6 +34,12 @@ and answer any of your questions about mine.
 By the way, did you have a look at my art
 [{{< icon name="instagram"  pack="fab" >}}](https://www.instagram.com/achillesalaun/)
 [{{< icon name="artstation" pack="fab" >}}](https://www.artstation.com/achille_salaun)?
-- I used to do **fencing** until the pandemy struck. Hope I can go back on pistes soon !
+- I used to do **fencing** until the pandemy struck. I hope I can go back on pistes soon !
+
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
 
 
