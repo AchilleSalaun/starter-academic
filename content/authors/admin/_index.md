@@ -20,7 +20,7 @@ organizations:
 #  url: "https://www.lincs.fr/"
 
 # Short bio (displayed in user profile at end of posts)
-#bio: My research interests include ...
+bio: Currently looking for a postDoc abroad (ideally Eastern Asia).
 
 interests:
 - Machine Learning
@@ -35,7 +35,7 @@ education:
   - course: Master's degree in Data Science and Engineering 
     institution: EURECOM
     year: 2015-2017
-  - course:  Diplôme d'ingénieur
+  - course:  Engineering degree
     institution: Télécom Paris
     year: 2014-2017
 
@@ -44,9 +44,14 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:achillesalaun@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+#- icon: envelope
+#  icon_pack: fas
+#  link: 'mailto:achillesalaun@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+- icon: cv
+  icon_pack: ai
+  link: statif/files/cv.pdf
 - icon: hal
   icon_pack: ai
   link: https://hal.archives-ouvertes.fr/search/index/?q=Achille+Sala%C3%BCn&authIdHal_s=achille-salaun
@@ -62,14 +67,10 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/achille-sala%C3%BCn-6053b2b9/
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/AchilleSalaun
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: github
+  icon_pack: fab
+  link: https://github.com/AchilleSalaun
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -93,4 +94,6 @@ such as pattern matching and generative models
 applied to alarm log analysis in telecommunication networks.
 I really liked this multidisciplinary aspect,
 so I would like to enlarge my understanding of these fields by tackling new applications and new problems!
+
+Feel free to reach me at [achillesalaun@gmail.com](mailto:achillesalaun@gmail.com).
 
