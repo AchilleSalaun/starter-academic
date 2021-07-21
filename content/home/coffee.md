@@ -27,7 +27,7 @@ both from a personal and scientific point of view.
 Therefore, here is a small suggestion of topics I would be happy to discuss 
 if we meet around a cup of coffee (it can be a glass of water as well):
 
-<div>
+<div style="heigt:157px">
   <div style="height:157px ; width =75%">
     Of course, we can chat about **science**. 
     I would be glad to know more about your current research 
@@ -36,7 +36,7 @@ if we meet around a cup of coffee (it can be a glass of water as well):
   {{<figure src="whatever.jpg" class="alignright">}} 
 </div>
 
-<div>
+<div style="heigt:157px">
   {{<figure src="whatever.jpg" class="alignleft">}} 
   <div style="height:157px ; width =75%">
     I am keen on visiting museums and **drawing** on my pen tablet. 
@@ -46,7 +46,7 @@ if we meet around a cup of coffee (it can be a glass of water as well):
   </div>
 </div>
 
-<div>
+<div style="heigt:157px">
   <div style="height:157px ; width =75%">
     I used to do **fencing** until the pandemy struck. 
     I hope I can go back on pistes soon !
