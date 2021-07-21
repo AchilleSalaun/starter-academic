@@ -27,29 +27,42 @@ both from a personal and scientific point of view.
 Therefore, here is a small suggestion of topics I would be happy to discuss 
 if we meet around a cup of coffee (it can be a glass of water as well):
 
-<div style="height:158px">
-  <div style="width:50%">
-    Of course, we can chat about **science**. 
-    I would be glad to know more about your current research 
-    and answer any of your questions about mine.
-  </div>
-  {{<figure src="whatever.jpg" class="alignright">}} 
-</div>
 
-<div style="height:158px">
-  {{<figure src="whatever.jpg" class="alignleft">}} 
-  <div style="width:50%">
-    I am keen on visiting museums and **drawing** on my pen tablet. 
-    By the way, did you have a look at my art
-    <a href="https://www.instagram.com/achillesalaun/">{{< icon name="instagram"  pack="fab" >}}</a>
-    <a href="https://www.artstation.com/achille_salaun/">{{< icon name="artstation" pack="fab" >}}</a>?</div>
-  </div>
-</div>
+<table style="width:100%">
+  <tr>
+    <th>
+      Of course, we can chat about **science**. 
+      I would be glad to know more about your current research 
+      and answer any of your questions about mine.
+    </th>
+    <th>
+      {{<figure src="whatever.jpg">}} 
+    </th> 
+  </tr>
+</table>
 
-<div style="height:158px">
-  <div style="width:50%">
-    I used to do **fencing** until the pandemy struck. 
-    I hope I can go back on pistes soon !
-  </div>
-  {{<figure src="whatever.jpg" class="alignright">}}
-</div>
+<table style="width:100%">
+  <tr>
+    <th>
+      {{<figure src="whatever.jpg">}}  
+    </th>
+    <th>
+      I am keen on visiting museums and **drawing** on my pen tablet. 
+      By the way, did you have a look at my art
+      <a href="https://www.instagram.com/achillesalaun/">{{< icon name="instagram"  pack="fab" >}}</a>
+      <a href="https://www.artstation.com/achille_salaun/">{{< icon name="artstation" pack="fab" >}}</a>?
+    </th> 
+  </tr>
+</table>
+
+<table style="width:100%">
+  <tr>
+    <th>
+      I used to do **fencing** until the pandemy struck. 
+      I hope I can go back on pistes soon !
+    </th>
+    <th>
+      {{<figure src="whatever.jpg">}} 
+    </th> 
+  </tr>
+</table>
