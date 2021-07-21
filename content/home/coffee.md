@@ -52,4 +52,4 @@ if we meet around a cup of coffee (it can be a glass of water as well):
     I hope I can go back on pistes soon !
   </div>
   {{<figure src="whatever.jpg" class="alignright">}}
-<\div>
+</div>
