@@ -1,7 +1,7 @@
 ---
 # An instance of the Blank widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: blank
+widget: coffee
 
 # This file represents a page section.
 headless: true
@@ -10,7 +10,7 @@ headless: true
 weight: 1
 
 # Section title
-title: Coffe break
+title: Coffee break
 # Section subtitle
 subtitle:
 
