@@ -1,13 +1,14 @@
 ---
 # An instance of the Blank widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: coffee
+widget: blank
 
 # This file represents a page section.
 headless: true
+active: true
 
 # Order that this section appears on the page.
-weight: 1
+weight: 80
 
 # Section title
 title: Coffee break
