@@ -31,6 +31,12 @@ and [Nokia Bell Labs](https://www.bell-labs.com/),
 I worked on very interesting and various domains related to log analysis in networks.
 Especially, I benefited from the great supervision of François Desbouvries, Anne Bouillard,
 Marc-Olivier Buob, and Yohan Petetin.
+
+Apart the theoretical work, my thesis shows a strong applied component. 
+Indeed, Anne, Marc-Olivier and I developed our algorithms into a Python 3 module.
+Our code has been at the core of a collaboration with Nokia's business units.
+
+Please follow this [link](https://achillesalaun.netlify.app/publication/2021_thesis/) for more details about my thesis.
 """
 
 [[experience]]
@@ -38,12 +44,15 @@ Marc-Olivier Buob, and Yohan Petetin.
   company = "Télécom SudParis"
   company_url = ""
   location = "Evry, France"
-  date_start = "2017-09-01"
+  date_start = "2018-09-01"
   date_end = "2020-11-01"
   description = """
-  I supervised labs sessions for a course about [Scientific Calculus](https://enseignements.telecom-sudparis.eu/fiche.php?m=20385&complete)
- (Master 1) and an other about 
-[Image Segmentation with Hidden Markov Models](https://enseignements.telecom-sudparis.eu/fiche.php?m=7349&complete) (Master 2).
+  For two consecutive years, I supervised labs sessions for a course about 
+[Scientific Calculus](https://enseignements.telecom-sudparis.eu/fiche.php?m=20385&complete) (Master 1) 
+and an other about 
+[Image Segmentation with Hidden Markov Models](https://enseignements.telecom-sudparis.eu/fiche.php?m=7349&complete) (Master 2) 
+at Télécom SudParis.
+These courses were respectively coordinated by Yohan Petetin, and Wojciech Pieczynski and Emmanuel Monfrini.
   """
 
 [[experience]]
@@ -55,5 +64,18 @@ Marc-Olivier Buob, and Yohan Petetin.
   date_end = "2017-09-01"
   description = """
   This internship, supervised by Pr. Thomas Bonald, has been a great environment to play with Louvain algorithm and modularity.
+  """
+
+[[experience]]
+  title = "Semester's Project : generating cooking recipes thanks to Variational Autoencoders"
+  company = "EURECOM"
+  company_url = ""
+  location = "Sophia Antipolis, France"
+  date_start = "2017-03-01"
+  date_end = "2017-09-01"
+  description = """
+  During this semester at [EURECOM](https://www.eurecom.fr/), I discovered Variational Autoencoders and Tensorflow under the supervision of
+Maurizio Filippone who gave me the fun challenge to generate cooking recipes!
+
   """
 +++
