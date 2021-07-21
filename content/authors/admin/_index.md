@@ -51,19 +51,19 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: statif/files/cv.pdf
+  link: static/files/cv.pdf
 - icon: hal
   icon_pack: ai
   link: https://hal.archives-ouvertes.fr/search/index/?q=Achille+Sala%C3%BCn&authIdHal_s=achille-salaun
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=iqXXYz4AAAAJ
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Achille-Salauen
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0001-5455-9115
+#- icon: researchgate
+#  icon_pack: ai
+#  link: https://www.researchgate.net/profile/Achille-Salauen
+#- icon: orcid
+#  icon_pack: ai
+#  link: https://orcid.org/0000-0001-5455-9115
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/achille-sala%C3%BCn-6053b2b9/
@@ -87,7 +87,7 @@ user_groups:
 
 I recently defended my thesis and am eager to make my next step in the research world!
 In particular, I feel I have still a lot to discover both from a human and scientific perspective.
-Therefore, I am currently looking for a postDoc abroad (ideally in Eastern Asia).
+**Therefore, I am currently looking for a postDoc abroad (ideally in Eastern Asia).**
 
 These years have been the opportunity for me to cross various scientific domains 
 such as pattern matching and generative models 
