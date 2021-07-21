@@ -47,8 +47,8 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:achillesalaun@gmail.com'  # For a direct email link, use "mailto:test@example.org".
-- icon: scroll
-  icon_pack: fas
+- icon: google-scholar
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=iqXXYz4AAAAJ
 - icon: linkedin
   icon_pack: fab
