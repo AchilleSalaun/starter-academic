@@ -1,7 +1,7 @@
-figure.floatleft {
+.floatleft {
   float: left;
 }
 
-figure.floatright {
+.floatright {
   float: right;
 }
