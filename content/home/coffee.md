@@ -11,7 +11,7 @@ active: true
 weight: 80
 
 # Section title
-title: Coffee break :coffee:
+title: "Coffee break :coffee:"
 # Section subtitle
 subtitle:
 
