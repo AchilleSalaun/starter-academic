@@ -14,12 +14,12 @@ menu_text_active = "#ffa126"
 menu_title       = "#2b2b2b"
 
 # Home sections
-background        = "#21232d"
+background        = "#22242e"
 home_section_odd  = "#22242e"
 home_section_even = "#22242e"
 
 
-dark_background        = "#21232d"
+dark_background        = "#22242e"
 dark_home_section_odd  = "#22242e"
 dark_home_section_even = "#22242e"
 
