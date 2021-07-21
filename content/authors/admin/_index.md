@@ -75,7 +75,7 @@ user_groups:
 - Visitors
 ---
 
-I recently defend my thesis and am eager to make my next step in the research world!
+I recently defended my thesis and am eager to make my next step in the research world!
 In particular, I feel I have still a lot to discover both from a human and scientific perspective.
 Therefore, I am currently looking for a postDoc abroad (ideally in Eastern Asia).
 

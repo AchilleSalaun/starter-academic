@@ -37,6 +37,6 @@ date_format = "Jan 2006"
   date_start = "2017-03-01"
   date_end = "2017-09-01"
   description = """
-  Under the supervision of Pr. Thomas Bonald.
+  Where I played with Louvain algorithm and modularity under the supervision of Pr. Thomas Bonald.
   """
 +++
