@@ -30,8 +30,8 @@ if we meet around a cup of coffee (it can be a glass of water too):
 - Of course, we can chat about science: either your current research or mine.
 - I really like Arts. I am keen on visiting museums and drawing on my pen tablet. 
 By the way, you can have a look about my art on my social medias 
-([<i class="fab instagram"></i>](https://www.instagram.com/achillesalaun/)
- [<i class="fab artstation"></i>](https://www.artstation.com/achille_salaun))!
+([@icon-instagram](https://www.instagram.com/achillesalaun/)
+ [@icon-artstation](https://www.artstation.com/achille_salaun))!
 - 
 
 
