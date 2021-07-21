@@ -10,7 +10,7 @@
   {{ $exp_len := len $page.Params.experience }}
 
   {{/* Default to user's custom order (as requested in #1761) as Hugo doesn't support multiple sorts on params. */}}
-  {{ range $idx, $key := sort $page.Params.experience ".date_end" "desc" }}
+  {{ range $idx, $key := $page.Params.experience }}
   <div class="row experience">
     <!-- Timeline -->
     <div class="col-auto text-center flex-column d-none d-sm-flex">
