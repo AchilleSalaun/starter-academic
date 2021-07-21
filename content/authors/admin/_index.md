@@ -30,7 +30,7 @@ interests:
 education:
   courses:
   - course: PhD's degree in Mathematics at interfaces
-    institution: Télécom SudParis, Nokia Bell Labs
+    institution: Institut Polytechnique de Paris
     year: 2017-2021
   - course: Master's degree in Data Science and Engineering 
     institution: EURECOM
