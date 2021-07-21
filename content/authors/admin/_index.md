@@ -47,9 +47,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:achillesalaun@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+- icon: hal
+  icon_pack: ai
+  link: https://hal.archives-ouvertes.fr/search/index/?q=Achille+Sala%C3%BCn&authIdHal_s=achille-salaun
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=iqXXYz4AAAAJ
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Achille-Salauen
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-5455-9115
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/achille-sala%C3%BCn-6053b2b9/
