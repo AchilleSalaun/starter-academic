@@ -4,6 +4,16 @@ margin-top: 0;
 margin-bottom: 1rem;
 }
 
+img[src$='#floatleft']
+{
+	float:left;
+}
+
+img[src$='#floatright']
+{
+	float:right;
+}
+
 .dark .card {
   margin-bottom: 1.5rem;
   overflow: hidden;
