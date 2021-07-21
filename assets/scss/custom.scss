@@ -4,11 +4,11 @@
   text-overflow: ellipsis;
   background: #282a36;
 /* this is the part that takes out the shadow */
-  box-shadow: 0 0.125rem 0.25rem 0 rgb(0 0 0 / 11%);
+  box-shadow: 0 0.125rem 0.25rem 0 rgba(0, 0, 0, 0.1);
   transition: all 0.2s ease-out;
 }
 
 .dark .navbar {
 background: #282a36;
-box-shadow: 0 0.125rem 0.25rem 0 rgb(0 0 0 / 11%);
+box-shadow: 0 0.125rem 0.25rem 0 rgba(0, 0, 0, 0.1);
 }
