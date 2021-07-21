@@ -11,7 +11,7 @@ active: true
 weight: 80
 
 # Section title
-title: Coffee break
+title: Coffee break :coffee:
 # Section subtitle
 subtitle:
 
@@ -24,10 +24,14 @@ design:
 
 The recent pandemy definitely taught us that social relationships are precious
 both from a personal and scientific point of view.
-Therefore, here is a small selection of topics I would be happy to discuss 
-if we meet around a cup of coffee (it can be a glass of water too).
+Therefore, here is a small suggestion of topics I would be happy to discuss 
+if we meet around a cup of coffee (it can be a glass of water too):
 
-- Item A
-- Item B
+- Of course, we can chat about science: either your current research or mine.
+- I really like Arts. I am keen on visiting museums and drawing on my pen tablet. 
+By the way, you can have a look about my art on my social medias 
+([instagram](https://www.instagram.com/achillesalaun/)
+[artstation](https://www.artstation.com/achille_salaun))!
+- 
 
 
