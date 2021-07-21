@@ -22,4 +22,12 @@ design:
 
 ---
 
-Add any content to the body of the section here.
+The recent pandemy definitely taught us that social relationships are precious
+both from a personal and scientific point of view.
+Therefore, here is a small selection of topics I would be happy to discuss 
+if we meet around a cup of coffee (it can be a glass of water too).
+
+- Item A
+- Item B
+
+
