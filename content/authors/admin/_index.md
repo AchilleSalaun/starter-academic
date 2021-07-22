@@ -20,7 +20,7 @@ organizations:
 #  url: "https://www.lincs.fr/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Currently looking for a postDoc abroad (ideally Eastern Asia).
+#bio: Currently looking for a postDoc abroad (ideally Eastern Asia).
 
 interests:
 - Machine Learning
@@ -32,7 +32,7 @@ education:
   - course: PhD's degree in Mathematics at interfaces
     institution: Institut Polytechnique de Paris
     year: 2017-2021
-  - course: Master's degree in Data Science and Engineering 
+  - course: Master's degree in Data Science and Engineering
     institution: EURECOM
     year: 2015-2017
   - course:  Engineering degree
@@ -85,15 +85,18 @@ user_groups:
 - Visitors
 ---
 
+I am a graduate Télécom Paris engineer since 2017.
+In particular, I followed the EURECOM cursus where I specialized in Data Science from 2015-2017.
+I received a PhD in mathematics at interfaces from the Institut Polytechnique de Paris.
+This was an industrial PhD (CIFRE) with
+[Télécom SudParis (SAMOVAR)](https://samovar.telecom-sudparis.eu/)  
+and [Nokia Bell Labs](https://www.bell-labs.com/)
+supervised by François Desbouvries, Anne Bouillard, Marc-Olivier Buob, and Yohan Petetin.
+My work was about predicting alarms in networks via space-time pattern matching
+and machine learning.
+
 I recently defended my thesis and am eager to make my next step in the research world!
 In particular, I feel I have still a lot to discover both from a human and scientific perspective.
 Therefore, **I am currently looking for a postDoc abroad** (ideally in Eastern Asia).
 
-These years have been the opportunity for me to cross various scientific domains 
-such as pattern matching and generative models 
-applied to alarm log analysis in telecommunication networks.
-I really liked this multidisciplinary aspect,
-so I would like to enlarge my understanding of these fields by tackling new applications and new problems!
-
 Feel free to reach me at [achillesalaun@gmail.com](mailto:achillesalaun@gmail.com).
-

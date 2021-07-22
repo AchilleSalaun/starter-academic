@@ -26,16 +26,21 @@ date_format = "Jan 2006"
   date_start = "2017-10-22"
   date_end = "2021-07-08"
   description = """
-During this industrial PhD (CIFRE) between [Télécom SudParis (SAMOVAR)](https://samovar.telecom-sudparis.eu/) 
-and [Nokia Bell Labs](https://www.bell-labs.com/), 
-I worked on very interesting and various domains related to log analysis in networks.
-Especially, I benefited from the great supervision of François Desbouvries, Anne Bouillard,
+During this industrial PhD (CIFRE) between [Télécom SudParis (SAMOVAR)](https://samovar.telecom-sudparis.eu/)
+and [Nokia Bell Labs](https://www.bell-labs.com/),
+I worked on predicting alarms in networks via space-time pattern matching and machine learning
+under the supervision of François Desbouvries, Anne Bouillard,
 Marc-Olivier Buob, and Yohan Petetin.
-In addition, I have been offered a wonderful workplace at [LINCS](https://www.lincs.fr/).
 
-Apart the theoretical work, my thesis shows a strong applied component. 
-Indeed, Anne, Marc-Olivier and I developed our algorithms into a Python 3 module.
-Our code has been at the core of a collaboration with Nokia's business units.
+This thesis is two-fold.
+On one hand, we proposed a structure able to store online causality chains observed within log,
+called DIG-DAG.
+On the other, we compared analytically the expressivity of two popular generative models,
+Hidden Markov Models and Recurrent Neural Networks.
+
+Apart the theoretical work, my thesis shows a strong applied component.
+Indeed, Anne, Marc-Olivier and I implemented our DIG-DAG related algorithms into a Python 3 module,
+which has been at the core of a collaboration with Nokia's business units.
 
 Please follow this [link](https://achillesalaun.netlify.app/publication/2021_thesis/) for more details about my thesis.
 """
@@ -48,10 +53,10 @@ Please follow this [link](https://achillesalaun.netlify.app/publication/2021_the
   date_start = "2018-09-01"
   date_end = "2020-11-01"
   description = """
-For two consecutive years, I supervised labs sessions for a course about 
-[Scientific Calculus](https://enseignements.telecom-sudparis.eu/fiche.php?m=20385&complete) (Master 1) 
-and an other about 
-[Image Segmentation with Hidden Markov Models](https://enseignements.telecom-sudparis.eu/fiche.php?m=7349&complete) (Master 2) 
+For two consecutive years, I supervised labs sessions for a course about
+[Scientific Calculus](https://enseignements.telecom-sudparis.eu/fiche.php?m=20385&complete) (Master 1)
+and an other about
+[Image Segmentation with Hidden Markov Models](https://enseignements.telecom-sudparis.eu/fiche.php?m=7349&complete) (Master 2)
 at Télécom SudParis.
 These courses were respectively coordinated by Yohan Petetin, and Wojciech Pieczynski and Emmanuel Monfrini.
 """
