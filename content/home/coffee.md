@@ -24,7 +24,7 @@ design:
 
 The recent pandemic definitely taught us that social relationships are precious
 both from a personal and scientific point of view.
-Therefore, here is a small suggestion of topics I would be happy to discuss
+Therefore, here are some topics I would be happy to discuss
 if we meet around a cup of coffee (it can be a glass of water as well)!
 
 <div class="clearfix">
@@ -49,7 +49,7 @@ if we meet around a cup of coffee (it can be a glass of water as well)!
     you can have a look on my creations there :point_right:
     <a href="https://www.instagram.com/achillesalaun/">{{< icon name="instagram"  pack="fab" >}}</a>
     <a href="https://www.artstation.com/achille_salaun/">{{< icon name="artstation" pack="fab" >}}</a>!
-    One of my dream would be to do my own comic book one day!
+    One of my dream would be to do my own comic book. Who knows, maybe one day?
   </div>
 </div>
 
@@ -57,7 +57,7 @@ if we meet around a cup of coffee (it can be a glass of water as well)!
   <div class="txt-container-l">
     I used to do <strong>fencing</strong> until the pandemic struck.
     I hope I can go back on pistes soon !
-    Meanwhile, I enjoy jogging at Parc de Vincennes from time to time.
+    Meanwhile, I enjoy jogging at the Bois de Vincennes from time to time.
   </div>
   <div class="img-container-r">
   {{<figure src="fencing_mini.png">}}
