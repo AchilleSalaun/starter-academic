@@ -34,13 +34,13 @@ if we meet around a cup of coffee (it can be a glass of water as well):
     and answer any of your questions about mine.
   </div>
   <div class="img-container-r">
-  {{<figure src="science.png">}}
+  {{<figure src="science_mini.png">}}
   </div>
 </div>
 
 <div class="clearfix">
   <div class="img-container-l">
-    {{<figure src="drawing.png">}}
+    {{<figure src="drawing_mini.png">}}
   </div>
   <div class="txt-container-r">
  I am keen on visiting museums and <strong>drawing</strong> on my pen tablet.
@@ -56,6 +56,6 @@ if we meet around a cup of coffee (it can be a glass of water as well):
  I hope I can go back on pistes soon ! Meanwhile, I also enjoy jogging from time to time.
   </div>
   <div class="img-container-r">
-  {{<figure src="fencing.png">}}
+  {{<figure src="fencing_mini.png">}}
   </div>
 </div>
