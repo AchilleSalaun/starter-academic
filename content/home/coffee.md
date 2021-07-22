@@ -22,16 +22,18 @@ design:
 
 ---
 
-The recent pandemy definitely taught us that social relationships are precious
+The recent pandemic definitely taught us that social relationships are precious
 both from a personal and scientific point of view.
 Therefore, here is a small suggestion of topics I would be happy to discuss
-if we meet around a cup of coffee (it can be a glass of water as well):
+if we meet around a cup of coffee (it can be a glass of water as well)!
 
 <div class="clearfix">
   <div class="txt-container-l">
-    Of course, we can chat about <strong>science</strong>.
-    I would be glad to know more about your current research
-    and answer any of your questions about mine.
+    Of course, we can chat about <strong>research</strong>.
+    I would be glad to know more about your current works
+    and answer any of your questions about mine
+    (but you can already start by asking them there :point_right:
+    <a href="mailto:achillesalaun@gmail.com">{{< icon name="envelope"  pack="fas" >}}</a>).
   </div>
   <div class="img-container-r">
   {{<figure src="science_mini.png">}}
@@ -43,17 +45,19 @@ if we meet around a cup of coffee (it can be a glass of water as well):
     {{<figure src="drawing_mini.png">}}
   </div>
   <div class="txt-container-r">
- I am keen on visiting museums and <strong>drawing</strong> on my pen tablet.
- It is possible to have a look on my creations there :point_right:
- <a href="https://www.instagram.com/achillesalaun/">{{< icon name="instagram"  pack="fab" >}}</a>
- <a href="https://www.artstation.com/achille_salaun/">{{< icon name="artstation" pack="fab" >}}</a>!
+    In my spare time, I love <strong>drawing</strong> on my pen tablet:
+    you can have a look on my creations there :point_right:
+    <a href="https://www.instagram.com/achillesalaun/">{{< icon name="instagram"  pack="fab" >}}</a>
+    <a href="https://www.artstation.com/achille_salaun/">{{< icon name="artstation" pack="fab" >}}</a>!
+    One of my dream would be to do my own comic book one day!
   </div>
 </div>
 
 <div class="clearfix">
   <div class="txt-container-l">
- I used to do <strong>fencing</strong> until the pandemic struck.
- I hope I can go back on pistes soon ! Meanwhile, I also enjoy jogging from time to time.
+    I used to do <strong>fencing</strong> until the pandemic struck.
+    I hope I can go back on pistes soon !
+    Meanwhile, I enjoy jogging at Parc de Vincennes from time to time.
   </div>
   <div class="img-container-r">
   {{<figure src="fencing_mini.png">}}
