@@ -2,11 +2,11 @@
 title: "Log analysis via space-time pattern matching"
 
 # Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Anne Bouillard
-- Marc-Olivier Buob
+- </a href="http://marcolivier.buob.pagesperso-orange.fr/" class="author">Marc-Olivier Buob</a>
 - Maxime Raynal
 - admin
 
@@ -31,12 +31,12 @@ publication_types: ["1"]
 publication: "In *CNSM 2018: 14th International Conference on Network and Service Management*"
 publication_short: In *CNSM 2018*
 
-abstract: "This paper proposes a new methodology inspired from pattern matching and able to find alarm correlations 
-with or without prior knowledge about the monitored system. 
-The data structure can store every observed pattern of correlated alarms by processing logs online. 
-It can be queried to extract the patterns of alarms leading to an arbitrary failure. 
-First, we propose a framework able to represent alarm logs according to spatio-temporal dependencies. 
-Second, we design a new scalable data structure, able to store every observed pattern of alarms, and validate it by simulation. 
+abstract: "This paper proposes a new methodology inspired from pattern matching and able to find alarm correlations
+with or without prior knowledge about the monitored system.
+The data structure can store every observed pattern of correlated alarms by processing logs online.
+It can be queried to extract the patterns of alarms leading to an arbitrary failure.
+First, we propose a framework able to represent alarm logs according to spatio-temporal dependencies.
+Second, we design a new scalable data structure, able to store every observed pattern of alarms, and validate it by simulation.
 Third, we show how to exploit this data structure for fault diagnosis."
 
 # Summary. An optional shortened abstract.
@@ -62,7 +62,7 @@ url_source: ''
 url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""
