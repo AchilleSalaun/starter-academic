@@ -4,12 +4,11 @@ title: "Log analysis via space-time pattern matching"
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
-authors=[
-"Anne Bouillard",
-"[Marc-Olivier Buob](http://marcolivier.buob.pagesperso-orange.fr/)",
-"Maxime Raynal",
-"admin"
-]
+authors:
+- Anne Bouillard
+- Marc-Olivier Buob
+- Maxime Raynal
+- admin
 
 # Author notes (optional)
 #author_notes:
