@@ -29,7 +29,7 @@ if we meet around a cup of coffee (it can be a glass of water as well):
 
 <div class="clearfix">
   <div class="img-container-l">
-  {{<figure src="whatever.jpg">}}
+  {{<figure src="science.png">}}
   </div>
   <div class="txt-container-r">
     Of course, we can chat about <strong>science</strong>. 
@@ -42,17 +42,17 @@ if we meet around a cup of coffee (it can be a glass of water as well):
   <div class="txt-container-l">
  I am keen on visiting museums and <strong>drawing</strong> on my pen tablet. 
  By the way, did you have a look at my art
- <a hrc="https://www.instagram.com/achillesalaun/">{{< icon name="instagram"  pack="fab" >}}</a>
- <a hrc="https://www.artstation.com/achille_salaun/">{{< icon name="artstation" pack="fab" >}}</a>?
+ <a href="https://www.instagram.com/achillesalaun/">{{< icon name="instagram"  pack="fab" >}}</a>
+ <a href="https://www.artstation.com/achille_salaun/">{{< icon name="artstation" pack="fab" >}}</a>?
   </div>
   <div class="img-container-r">
-  {{<figure src="whatever.jpg">}}
+  {{<figure src=drawing.png">}}
   </div>
 </div>
 
 <div class="clearfix">
   <div class="img-container-l">
-  {{<figure src="whatever.jpg">}}
+  {{<figure src="fencing.png">}}
   </div>
   <div class="txt-container-r">
  I used to do <strong>fencing</strong> until the pandemy struck. 
