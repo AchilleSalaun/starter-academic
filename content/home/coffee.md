@@ -46,7 +46,7 @@ if we meet around a cup of coffee (it can be a glass of water as well):
  <a href="https://www.artstation.com/achille_salaun/">{{< icon name="artstation" pack="fab" >}}</a>?
   </div>
   <div class="img-container-r">
-  {{<figure src=drawing.png">}}
+  {{<figure src="drawing.png">}}
   </div>
 </div>
 
