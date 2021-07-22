@@ -24,7 +24,7 @@ design:
 
 The recent pandemy definitely taught us that social relationships are precious
 both from a personal and scientific point of view.
-Therefore, here is a small suggestion of topics I would be happy to discuss 
+Therefore, here is a small suggestion of topics I would be happy to discuss
 if we meet around a cup of coffee (it can be a glass of water as well):
 
 <div class="clearfix">
@@ -32,18 +32,18 @@ if we meet around a cup of coffee (it can be a glass of water as well):
   {{<figure src="science.png">}}
   </div>
   <div class="txt-container-r">
-    Of course, we can chat about <strong>science</strong>. 
-    I would be glad to know more about your current research 
+    Of course, we can chat about <strong>science</strong>.
+    I would be glad to know more about your current research
     and answer any of your questions about mine.
   </div>
 </div>
 
 <div class="clearfix">
   <div class="txt-container-l">
- I am keen on visiting museums and <strong>drawing</strong> on my pen tablet. 
- By the way, did you have a look at my art
+ I am keen on visiting museums and <strong>drawing</strong> on my pen tablet.
+ It is possible to have a look on my creations there :point_right:
  <a href="https://www.instagram.com/achillesalaun/">{{< icon name="instagram"  pack="fab" >}}</a>
- <a href="https://www.artstation.com/achille_salaun/">{{< icon name="artstation" pack="fab" >}}</a>?
+ <a href="https://www.artstation.com/achille_salaun/">{{< icon name="artstation" pack="fab" >}}</a>!
   </div>
   <div class="img-container-r">
   {{<figure src="drawing.png">}}
@@ -55,7 +55,7 @@ if we meet around a cup of coffee (it can be a glass of water as well):
   {{<figure src="fencing.png">}}
   </div>
   <div class="txt-container-r">
- I used to do <strong>fencing</strong> until the pandemy struck. 
+ I used to do <strong>fencing</strong> until the pandemy struck.
  I hope I can go back on pistes soon !
   </div>
 </div>
