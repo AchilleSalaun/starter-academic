@@ -32,7 +32,7 @@ if we meet around a cup of coffee (it can be a glass of water as well):
   {{<figure src="whatever.jpg">}}
   </div>
   <div class="txt-container-r">
-    Of course, we can chat about **science**. 
+    Of course, we can chat about <strong>science</strong>. 
     I would be glad to know more about your current research 
     and answer any of your questions about mine.
   </div>
@@ -40,7 +40,7 @@ if we meet around a cup of coffee (it can be a glass of water as well):
 
 <div class="clearfix">
   <div class="txt-container-l">
- I am keen on visiting museums and **drawing** on my pen tablet. 
+ I am keen on visiting museums and <strong>drawing</strong> on my pen tablet. 
  By the way, did you have a look at my art
  <a hrc="https://www.instagram.com/achillesalaun/">{{< icon name="instagram"  pack="fab" >}}</a>
  <a hrc="https://www.artstation.com/achille_salaun/">{{< icon name="artstation" pack="fab" >}}</a>?
@@ -55,7 +55,7 @@ if we meet around a cup of coffee (it can be a glass of water as well):
   {{<figure src="whatever.jpg">}}
   </div>
   <div class="txt-container-r">
- I used to do **fencing** until the pandemy struck. 
+ I used to do <strong>fencing</strong> until the pandemy struck. 
  I hope I can go back on pistes soon !
   </div>
 </div>
