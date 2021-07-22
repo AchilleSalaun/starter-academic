@@ -4,12 +4,40 @@ p {
   margin-bottom: 1rem;
 }
 
-.alignleft {
-  float: left;
+.img-container-l, .img-container-r, .txt-container-l, .txt-container-r {
+  box-sizing: border-box;
 }
 
-.alignright {
+.img-container-l {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+.img-container-r {
   float: right;
+  width: 33.33%;
+  padding: 5px;
+}
+
+.txt-container-l {
+  float: left;
+  width: 66%;
+  padding: 5px;
+  text-align: justify;
+}
+
+.txt-container-r {
+  float: right;
+  width: 66%;
+  padding: 5px;
+  text-align: justify;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
 }
 
 .dark .card {
