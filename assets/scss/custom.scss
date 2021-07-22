@@ -10,24 +10,26 @@ p {
 
 .img-container-l {
   float: left;
+  width: 160px;
   padding: 5px;
 }
 
 .img-container-r {
   float: right;
+  width: 160px;
   padding: 5px;
 }
 
 .txt-container-l {
   float: left;
-  width: calc(100% - 157px);
+  width: calc(100% - 161px);
   padding: 5px;
   text-align: justify;
 }
 
 .txt-container-r {
   float: right;
-  width: calc(100% - 157px);
+  width: calc(100% - 161px);
   padding: 5px;
   text-align: justify;
 }
