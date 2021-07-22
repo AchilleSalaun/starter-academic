@@ -1,22 +1,45 @@
+// Format text
 p {
   text-align: justify;
   margin-top: 0;
   margin-bottom: 1rem;
 }
 
+.strong {
+  color: red;
+}
+
+// Format navbar
+.dark .navbar {
+background: #282a36;
+box-shadow: 0 0.125rem 0.25rem 0 rgba(0, 0, 0, 0.1);
+}
+
+// Format card experience
+.dark .card {
+  margin-bottom: 1.5rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  background: #282a36;
+/* this is the part that takes out the shadow */
+  box-shadow: 0 0.125rem 0.25rem 0 rgba(0, 0, 0, 0.1);
+  transition: all 0.2s ease-out;
+}
+
+// Coffee boxes
 .img-container-l, .img-container-r, .txt-container-l, .txt-container-r {
   box-sizing: border-box;
 }
 
 .img-container-l {
   float: left;
-  width: 160px;
+  height: 161px;
   padding: 5px;
 }
 
 .img-container-r {
   float: right;
-  width: 160px;
+  height: 161px;
   padding: 5px;
 }
 
@@ -38,19 +61,4 @@ p {
   content: "";
   clear: both;
   display: table;
-}
-
-.dark .card {
-  margin-bottom: 1.5rem;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  background: #282a36;
-/* this is the part that takes out the shadow */
-  box-shadow: 0 0.125rem 0.25rem 0 rgba(0, 0, 0, 0.1);
-  transition: all 0.2s ease-out;
-}
-
-.dark .navbar {
-background: #282a36;
-box-shadow: 0 0.125rem 0.25rem 0 rgba(0, 0, 0, 0.1);
 }

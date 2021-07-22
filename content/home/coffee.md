@@ -28,34 +28,34 @@ Therefore, here is a small suggestion of topics I would be happy to discuss
 if we meet around a cup of coffee (it can be a glass of water as well):
 
 <div class="clearfix">
-  <div class="img-container-l">
-  {{<figure src="science.png">}}
-  </div>
-  <div class="txt-container-r">
+  <div class="txt-container-l">
     Of course, we can chat about <strong>science</strong>.
     I would be glad to know more about your current research
     and answer any of your questions about mine.
   </div>
+  <div class="img-container-r">
+  {{<figure src="science.png">}}
+  </div>
 </div>
 
 <div class="clearfix">
-  <div class="txt-container-l">
+  <div class="img-container-l">
+    {{<figure src="drawing.png">}}
+  </div>
+  <div class="txt-container-r">
  I am keen on visiting museums and <strong>drawing</strong> on my pen tablet.
  It is possible to have a look on my creations there :point_right:
  <a href="https://www.instagram.com/achillesalaun/">{{< icon name="instagram"  pack="fab" >}}</a>
  <a href="https://www.artstation.com/achille_salaun/">{{< icon name="artstation" pack="fab" >}}</a>!
   </div>
-  <div class="img-container-r">
-  {{<figure src="drawing.png">}}
-  </div>
 </div>
 
 <div class="clearfix">
-  <div class="img-container-l">
-  {{<figure src="fencing.png">}}
+  <div class="txt-container-l">
+ I used to do <strong>fencing</strong> until the pandemic struck.
+ I hope I can go back on pistes soon ! Meanwhile, I also enjoy jogging from time to time.
   </div>
-  <div class="txt-container-r">
- I used to do <strong>fencing</strong> until the pandemy struck.
- I hope I can go back on pistes soon !
+  <div class="img-container-r">
+  {{<figure src="fencing.png">}}
   </div>
 </div>
