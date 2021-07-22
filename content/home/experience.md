@@ -28,14 +28,13 @@ date_format = "Jan 2006"
   description = """
 During this industrial PhD (CIFRE) between [Télécom SudParis (SAMOVAR)](https://samovar.telecom-sudparis.eu/)
 and [Nokia Bell Labs](https://www.bell-labs.com/),
-I worked on predicting alarms in networks via space-time pattern matching and machine learning
-under the supervision of François Desbouvries, Anne Bouillard,
+I worked on predicting alarms in networks via space-time pattern matching and machine learning.
+For this, I benefited from the supervision of François Desbouvries, Anne Bouillard,
 Marc-Olivier Buob, and Yohan Petetin.
 
 This thesis is two-fold.
-On one hand, we proposed a structure able to store online causality chains observed within log,
-called DIG-DAG.
-On the other, we compared analytically the expressivity of two popular generative models,
+On one hand, we proposed a structure, called DIG-DAG, able to store online causality chains observed within log.
+On the other hand, we compared analytically the expressivity of two popular generative models:
 Hidden Markov Models and Recurrent Neural Networks.
 
 Apart the theoretical work, my thesis shows a strong applied component.
@@ -69,7 +68,7 @@ These courses were respectively coordinated by Yohan Petetin, and Wojciech Piecz
   date_start = "2017-03-01"
   date_end = "2017-09-01"
   description = """
-This internship, supervised by Pr. Thomas Bonald, provided a great environment to play with Louvain algorithm and modularity.
+This internship, supervised by Thomas Bonald, provided a great environment to play with Louvain algorithm and modularity.
 """
 
 [[experience]]
