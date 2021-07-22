@@ -44,14 +44,18 @@ box-shadow: 0 0.125rem 0.25rem 0 rgba(0, 0, 0, 0.1);
 }
 
 .txt-container-l {
-  float: left;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
   width: calc(100% - 160px);
   padding: 5px;
   text-align: justify;
 }
 
 .txt-container-r {
-  float: right;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
   width: calc(100% - 160px);
   padding: 5px;
   text-align: justify;
@@ -61,5 +65,5 @@ box-shadow: 0 0.125rem 0.25rem 0 rgba(0, 0, 0, 0.1);
   content: "";
   clear: both;
   display: table;
-  margin-bottom: 5px;
+  margin-bottom: 20px;
 }
