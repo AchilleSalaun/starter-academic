@@ -6,7 +6,7 @@ title: "Log analysis via space-time pattern matching"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Anne Bouillard
-- {{</a href="http://marcolivier.buob.pagesperso-orange.fr/" class="author">Marc-Olivier Buob</a>}}
+- [Marc-Olivier Buob](http://marcolivier.buob.pagesperso-orange.fr/)
 - Maxime Raynal
 - admin
 
