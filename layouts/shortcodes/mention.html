@@ -1,6 +1,4 @@
-
-10 lines (10 sloc)  379 Bytes
-
+{{ printf "Starting mention" }}
 {{- $username := .Get 0 -}}
 {{- $username_url := $username | urlize -}}
 {{- $taxonomy := "authors" -}}
@@ -18,3 +16,4 @@
 {{- else -}}
   {{- $name -}}
 {{- end -}}
+{{ printf "Ending mention" }}
