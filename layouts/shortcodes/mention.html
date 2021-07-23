@@ -1,3 +1,8 @@
+
+10 lines (10 sloc)  379 Bytes
+
+{{- $username := .Get 0 -}}
+{{- $username_url := $username | urlize -}}
 {{- $taxonomy := "authors" -}}
 {{- $profile_page := site.GetPage (printf "/%s/%s" $taxonomy $username_url) -}}
 {{- $name := $profile_page.Title | default ($username|markdownify) -}}
