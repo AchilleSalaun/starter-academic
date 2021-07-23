@@ -1,4 +1,4 @@
-{{ printf "Starting mention" }}
+{{ print "Starting mention" }}
 {{- $username := .Get 0 -}}
 {{- $username_url := $username | urlize -}}
 {{- $taxonomy := "authors" -}}
@@ -16,4 +16,4 @@
 {{- else -}}
   {{- $name -}}
 {{- end -}}
-{{ printf "Ending mention" }}
+{{ print "Ending mention" }}
