@@ -1,8 +1,8 @@
-{{ print "Starting mention" }}
 {{- $username := .Get 0 -}}
 {{- $username_url := $username | urlize -}}
 {{- $taxonomy := "authors" -}}
 {{- $profile_page := site.GetPage (printf "/%s/%s" $taxonomy $username_url) -}}
+{{ printf “%#v” $profile_page }}
 {{- $name := $profile_page.Title | default ($username|markdownify) -}}
 {{- $link := $profile_page.RelPermalink -}}
 {{- $target := "" -}}
@@ -16,4 +16,3 @@
 {{- else -}}
   {{- $name -}}
 {{- end -}}
-{{ print "Ending mention" }}
