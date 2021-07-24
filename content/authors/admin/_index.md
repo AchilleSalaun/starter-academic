@@ -73,7 +73,7 @@ social:
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+#email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -96,4 +96,8 @@ I recently defended my thesis and am eager to make my next step in the research 
 In particular, I feel I have still a lot to discover both from a human and scientific perspective.
 Therefore, **I am currently looking for a postDoc abroad** (ideally in Eastern Asia).
 
-Feel free to reach me at [achillesalaun@gmail.com](mailto:achillesalaun@gmail.com).
+Feel free to reach me at
+<script type="text/javascript">
+	document.write("<n uers=\"znvygb:xvpx@vaprcgvba.pbz\" ery=\"absbyybj\">Fraq n zrffntr</n>".replace(/[a-zA-Z]/g,
+	function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));
+</script>.
