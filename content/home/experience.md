@@ -33,11 +33,11 @@ For this, I benefited from the supervision of François Desbouvries, Anne Bouill
 Marc-Olivier Buob, and Yohan Petetin.
 
 This thesis is two-fold.
-On one hand, we proposed a structure, called DIG-DAG, able to store online causality chains observed within log.
+On the one hand, we proposed a structure, called DIG-DAG, able to store online causality chains observed within log.
 On the other hand, we compared analytically the expressivity of two popular generative models:
 Hidden Markov Models and Recurrent Neural Networks.
 
-Apart the theoretical work, my thesis shows a strong applied component.
+Apart from the theoretical work, my thesis shows a strong applied component.
 Indeed, Anne, Marc-Olivier and I implemented our DIG-DAG related algorithms into a Python 3 module,
 which has been at the core of a collaboration with Nokia's business units.
 
@@ -52,9 +52,9 @@ Please follow this [link](https://achillesalaun.netlify.app/publication/2021_the
   date_start = "2018-09-01"
   date_end = "2020-11-01"
   description = """
-For two consecutive years, I supervised labs sessions for a course about
+For two consecutive years, I supervised labs sessions for a course on
 [Scientific Calculus](https://enseignements.telecom-sudparis.eu/fiche.php?m=20385&complete) (Master 1)
-and an other about
+and another one on
 [Image Segmentation with Hidden Markov Models](https://enseignements.telecom-sudparis.eu/fiche.php?m=7349&complete) (Master 2)
 at Télécom SudParis.
 These courses were respectively coordinated by Yohan Petetin, and Wojciech Pieczynski and Emmanuel Monfrini.

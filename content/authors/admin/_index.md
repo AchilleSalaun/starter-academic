@@ -6,7 +6,7 @@ title: Achille Salaün
 superuser: true
 
 # Role/position
-role: PhD in mathematics at interfaces
+role: PhD in Computational Mathematics
 
 # Organizations/Affiliations
 organizations:
@@ -29,7 +29,7 @@ interests:
 
 education:
   courses:
-  - course: PhD's degree in Mathematics at interfaces
+  - course: PhD in Computational Mathematics
     institution: Institut Polytechnique de Paris
     year: 2017-2021
   - course: Master's degree in Data Science and Engineering
@@ -92,8 +92,8 @@ This was an industrial PhD (CIFRE) with [Télécom SudParis (SAMOVAR)](https://s
 My work was about predicting alarms in networks via space-time pattern matching
 and machine learning.
 
-I recently defended my thesis and am eager to make my next step in the research world!
-In particular, I feel I have still a lot to discover both from a human and scientific perspective.
+I recently defended my thesis and am eager to take my next step in the research world!
+In particular, I feel like I still have a lot to discover from both a human and scientific perspective.
 Therefore, **I am currently looking for a postDoc abroad** (ideally in Eastern Asia).
 
-Feel free to reach me at {{< obfuscated_email "npuvyyrfnynha@tznvy.pbz">}}.
+Feel free to reach out to me at {{< obfuscated_email "npuvyyrfnynha@tznvy.pbz">}}.

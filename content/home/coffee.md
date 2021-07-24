@@ -23,13 +23,13 @@ design:
 ---
 
 The recent pandemic definitely taught us that social relationships are precious
-both from a personal and scientific point of view.
+from both a personal and scientific point of view.
 Therefore, here are some topics I would be happy to discuss
 if we meet around a cup of coffee (it can be a glass of water as well)!
 
 <div class="clearfix">
   <div class="txt-container-l">
-    Of course, we can chat about <strong>research</strong>.
+    Naturally, we can chat about <strong>research</strong>.
     I would be glad to know more about your current works
     and answer any of your questions about mine
     (but you can already start by asking them there :point_right:
@@ -49,7 +49,7 @@ if we meet around a cup of coffee (it can be a glass of water as well)!
     you can have a look on my creations there :point_right:
     <a href="https://www.instagram.com/achillesalaun/">{{< icon name="instagram"  pack="fab" >}}</a>
     <a href="https://www.artstation.com/achille_salaun/">{{< icon name="artstation" pack="fab" >}}</a>!
-    One of my dream would be to do my own comic book. Who knows, maybe one day?
+    One of my dream would be to draw my own comic book. Who knows, maybe one day?
   </div>
 </div>
 
