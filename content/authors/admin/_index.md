@@ -96,4 +96,4 @@ I recently defended my thesis and am eager to make my next step in the research 
 In particular, I feel I have still a lot to discover both from a human and scientific perspective.
 Therefore, **I am currently looking for a postDoc abroad** (ideally in Eastern Asia).
 
-Feel free to reach me at {{obfuscated_email}}.
+Feel free to reach me at {{< obfuscated_email >}}.
