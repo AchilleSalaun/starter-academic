@@ -51,7 +51,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: https://achillesalaun.netlify.app/files/cv.pdf
+  link: https://achillesalaun.netlify.app/files/cv_achille_salaun.pdf
 - icon: hal
   icon_pack: ai
   link: https://hal.archives-ouvertes.fr/search/index/?q=Achille+Sala%C3%BCn&authIdHal_s=achille-salaun
