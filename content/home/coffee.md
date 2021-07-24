@@ -33,7 +33,7 @@ if we meet around a cup of coffee (it can be a glass of water as well)!
     I would be glad to know more about your current works
     and answer any of your questions about mine
     (but you can already start by asking them there :point_right:
-    <a href="mailto:achillesalaun@gmail.com">{{< icon name="envelope"  pack="fas" >}}</a>).
+    {{< obfuscated_email "<z tcrjj="wrj wr-vemvcfgv gi-1 wr-wn"></z>" >}}).
   </div>
   <div class="img-container-r">
   {{<figure src="science_mini.png">}}
