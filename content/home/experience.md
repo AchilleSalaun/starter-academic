@@ -29,8 +29,7 @@ date_format = "Jan 2006"
 During this industrial PhD (CIFRE) between [Télécom SudParis (SAMOVAR)](https://samovar.telecom-sudparis.eu/)
 and [Nokia Bell Labs](https://www.bell-labs.com/),
 I worked on predicting alarms in networks via space-time pattern matching and machine learning.
-For this, I benefited from the supervision of François Desbouvries, Anne Bouillard,
-Marc-Olivier Buob, and Yohan Petetin.
+For this, I benefited from the supervision of {{< mention "francois" >}}, {{< mention "anne" >}}, {{< mention "marco" >}}, and {{< mention "yohan" >}}.
 
 This thesis is two-fold.
 On the one hand, we proposed a structure, called DIG-DAG, able to store online causality chains observed within log.
@@ -57,7 +56,7 @@ For two consecutive years, I supervised labs sessions for a course on
 and another one on
 [Image Segmentation with Hidden Markov Models](https://enseignements.telecom-sudparis.eu/fiche.php?m=7349&complete) (Master 2)
 at Télécom SudParis.
-These courses were respectively coordinated by Yohan Petetin, and Wojciech Pieczynski and Emmanuel Monfrini.
+These courses were respectively coordinated by {{< mention "yohan" >}}, and {{< mention "wojciech" >}} and {{< mention "manu" >}}.
 """
 
 [[experience]]
@@ -68,7 +67,7 @@ These courses were respectively coordinated by Yohan Petetin, and Wojciech Piecz
   date_start = "2017-03-01"
   date_end = "2017-09-01"
   description = """
-This internship, supervised by Thomas Bonald, provided a great environment to play with Louvain algorithm and modularity.
+This internship, supervised by {{< mention "thomas" >}}, provided a great environment to play with Louvain algorithm and modularity.
 """
 
 [[experience]]
@@ -80,6 +79,6 @@ This internship, supervised by Thomas Bonald, provided a great environment to pl
   date_end = "2017-09-01"
   description = """
 During this semester at [EURECOM](https://www.eurecom.fr/), I discovered Variational Autoencoders and Tensorflow under the supervision of
-Maurizio Filippone who gave me the fun challenge to generate cooking recipes!
+{{< mention "maurizio" >}} who gave me the fun challenge to generate cooking recipes!
 """
 +++

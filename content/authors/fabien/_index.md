@@ -1,8 +1,8 @@
 ---
 # Display name
-title: Marc-Olivier Buob
+title: Fabien Mathieu
 
-external_link: "http://marcolivier.buob.pagesperso-orange.fr/"
+external_link: "https://www.lincs.fr/people/fabien-mathieu/"
 
 # Is this the primary user of the site?
 superuser: false

@@ -1,8 +1,8 @@
 ---
 # Display name
-title: Marc-Olivier Buob
+title: Elie De Panafieu
 
-external_link: "http://marcolivier.buob.pagesperso-orange.fr/"
+external_link: "https://www.lincs.fr/people/elie-de-panafieu/"
 
 # Is this the primary user of the site?
 superuser: false

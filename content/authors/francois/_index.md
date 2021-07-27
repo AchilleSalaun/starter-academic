@@ -1,8 +1,8 @@
 ---
 # Display name
-title: Marc-Olivier Buob
+title: François Desbouvries
 
-external_link: "http://marcolivier.buob.pagesperso-orange.fr/"
+external_link: "http://www-public.it-sudparis.eu/~desbouvr/"
 
 # Is this the primary user of the site?
 superuser: false

@@ -2,12 +2,12 @@
 title: "Comparing the modeling powers of RNN and HMM"
 
 # Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Yohan Petetin
-- François Desbouvries
+- yohan
+- francois
 
 # Author notes (optional)
 #author_notes:
@@ -31,28 +31,28 @@ publication: "In *ICMLA 2019: 18th International Conference on Machine Learning 
 publication_short: In *ICMLA 2019*
 
 abstract: "Recurrent Neural Networks (RNN) and Hidden Markov Models (HMM) are popular models
-for processing sequential data and have found many applications such as speech recognition, 
-time series prediction or machine translation. 
-Although both models have been extended in several ways 
-(eg. Long Short Term Memory and Gated Recurrent Unit architec-tures, Variational RNN, 
-partially observed Markov models.. .), 
-their theoretical understanding remains partially open. 
-In this context, our approach consists in classifying both models from an information 
-geometry point of view. 
-More precisely, both models can be used for modeling the distribution of a sequence of 
-random observations from a set of latent variables; 
-however, in RNN, the latent variable is deterministically deduced from the current 
-observation and the previous latent variable, while, in HMM, the set of (random) 
-latent variables is a Markov chain. 
-In this paper, we first embed these two generative models into a generative unified model 
-(GUM). We next consider the subclass of GUM models which yield a stationary Gaussian 
-observations probability distribution function (pdf). 
-Such pdf are characterized by their covariance sequence; 
+for processing sequential data and have found many applications such as speech recognition,
+time series prediction or machine translation.
+Although both models have been extended in several ways
+(eg. Long Short Term Memory and Gated Recurrent Unit architec-tures, Variational RNN,
+partially observed Markov models.. .),
+their theoretical understanding remains partially open.
+In this context, our approach consists in classifying both models from an information
+geometry point of view.
+More precisely, both models can be used for modeling the distribution of a sequence of
+random observations from a set of latent variables;
+however, in RNN, the latent variable is deterministically deduced from the current
+observation and the previous latent variable, while, in HMM, the set of (random)
+latent variables is a Markov chain.
+In this paper, we first embed these two generative models into a generative unified model
+(GUM). We next consider the subclass of GUM models which yield a stationary Gaussian
+observations probability distribution function (pdf).
+Such pdf are characterized by their covariance sequence;
 we show that the GUM model can produce any stationary Gaussian distribution with geometrical
-covariance structure. 
-We finally discuss about the modeling power of the HMM and RNN submodels, 
-via their associated observations pdf: some observations pdf can be modeled by a RNN, 
-but not by an HMM, and vice versa; some can be produced by both structures, 
+covariance structure.
+We finally discuss about the modeling power of the HMM and RNN submodels,
+via their associated observations pdf: some observations pdf can be modeled by a RNN,
+but not by an HMM, and vice versa; some can be produced by both structures,
 up to a re-parameterization."
 
 # Summary. An optional shortened abstract.
@@ -78,7 +78,7 @@ url_source: ''
 url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""

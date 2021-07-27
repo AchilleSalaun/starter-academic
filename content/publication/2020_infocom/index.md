@@ -2,12 +2,12 @@
 title: "Demo abstract: end-to-end root cause analysis of a mobile network"
 
 # Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Anne Bouillard
-- Marc-Olivier Buob
+- anne
+- marco
 
 # Author notes (optional)
 #author_notes:
@@ -30,21 +30,21 @@ publication_types: ["1"]
 publication: "In *INFOCOM 2020: IEEE International Conference on Computer Communications*"
 publication_short: In *INFOCOM 2020*
 
-abstract: "In telecommunications, fault management is critical to improve network 
-availability and user experience. 
-To enhance reliability of their networks, operators require tools to quickly understand 
-the cause of an outage. 
-In particular, logs of alarms keep track of failures arising in their infrastructures. 
-Due to the increasing size of networks and to the high diversity of technologies, 
-these files may be verbose and noisy. That is why analyzing a log is often complex, 
-hence delaying recovery and then degrading network availability. 
-This demo presents a tool suite dedicated to log analysis. 
-Our methodology is illustrated through the processing of a real alarm log issued from 
-a 4G network. 
-First, one can simplify the log by discarding irrelevant alarms and by clustering 
-co-occurrent ones. 
-Then, the underlying graph structure, called DIG-DAG, can store causal patterns by 
-processing the input log online. 
+abstract: "In telecommunications, fault management is critical to improve network
+availability and user experience.
+To enhance reliability of their networks, operators require tools to quickly understand
+the cause of an outage.
+In particular, logs of alarms keep track of failures arising in their infrastructures.
+Due to the increasing size of networks and to the high diversity of technologies,
+these files may be verbose and noisy. That is why analyzing a log is often complex,
+hence delaying recovery and then degrading network availability.
+This demo presents a tool suite dedicated to log analysis.
+Our methodology is illustrated through the processing of a real alarm log issued from
+a 4G network.
+First, one can simplify the log by discarding irrelevant alarms and by clustering
+co-occurrent ones.
+Then, the underlying graph structure, called DIG-DAG, can store causal patterns by
+processing the input log online.
 Hence, experts can query the DIG-DAG to retrieve small and interpretable patterns."
 
 # Summary. An optional shortened abstract.
@@ -70,7 +70,7 @@ url_source: ''
 url_video: 'https://www.youtube.com/watch?v=lCMQLsoLCoY'
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""

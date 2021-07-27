@@ -1,8 +1,8 @@
 ---
 # Display name
-title: Marc-Olivier Buob
+title: Kamélia Daudel
 
-external_link: "http://marcolivier.buob.pagesperso-orange.fr/"
+external_link: "https://kdaudel.github.io/"
 
 # Is this the primary user of the site?
 superuser: false

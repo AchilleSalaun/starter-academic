@@ -2,12 +2,12 @@
 title: "Space-time pattern extraction in alarm logs for network diagnosis"
 
 # Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Anne Bouillard
-- Marc-Olivier Buob
+- anne
+- marco
 
 # Author notes (optional)
 #author_notes:
@@ -30,15 +30,15 @@ publication_types: ["1"]
 publication: "In *MLN 2019: 2nd IFIP International Conference on Machine Learning for Networking*"
 publication_short: In *MLN 2019*
 
-abstract: "Increasing size and complexity of telecommunication networks make troubleshooting 
-and network management more and more critical. 
-As analyzing a log is cumbersome and time consuming, 
-experts need tools helping them to quickly pinpoint the root cause when a problem arises. 
-A structure called DIG-DAG able to store chain of alarms in a compact manner according 
-to an input log has recently been proposed. 
-Unfortunately, for large logs, this structure may be huge, 
-and thus hardly readable for experts. To circumvent this problem, 
-this paper proposes a framework allowing to query a DIG-DAG in order to extract patterns 
+abstract: "Increasing size and complexity of telecommunication networks make troubleshooting
+and network management more and more critical.
+As analyzing a log is cumbersome and time consuming,
+experts need tools helping them to quickly pinpoint the root cause when a problem arises.
+A structure called DIG-DAG able to store chain of alarms in a compact manner according
+to an input log has recently been proposed.
+Unfortunately, for large logs, this structure may be huge,
+and thus hardly readable for experts. To circumvent this problem,
+this paper proposes a framework allowing to query a DIG-DAG in order to extract patterns
 of interest, and a full methodology for end-to-end analysis of a log."
 
 # Summary. An optional shortened abstract.
@@ -64,7 +64,7 @@ url_source: ''
 url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""

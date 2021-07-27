@@ -1,8 +1,8 @@
 ---
 # Display name
-title: Marc-Olivier Buob
+title: François Durand
 
-external_link: "http://marcolivier.buob.pagesperso-orange.fr/"
+external_link: "https://cv.archives-ouvertes.fr/fradurand"
 
 # Is this the primary user of the site?
 superuser: false

@@ -1,8 +1,8 @@
 ---
 # Display name
-title: Marc-Olivier Buob
+title: Maxime Raynal
 
-external_link: "http://marcolivier.buob.pagesperso-orange.fr/"
+external_link: "https://scholar.google.com/citations?user=uXU0X_EAAAAJ"
 
 # Is this the primary user of the site?
 superuser: false

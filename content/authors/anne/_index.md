@@ -1,8 +1,8 @@
 ---
 # Display name
-title: Marc-Olivier Buob
+title: Anne Bouillard
 
-external_link: "http://marcolivier.buob.pagesperso-orange.fr/"
+external_link: "https://www.linkedin.com/in/anne-bouillard-b93323151"
 
 # Is this the primary user of the site?
 superuser: false

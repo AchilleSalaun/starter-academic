@@ -1,8 +1,8 @@
 ---
 # Display name
-title: Marc-Olivier Buob
+title: Emmanuel Monfrini
 
-external_link: "http://marcolivier.buob.pagesperso-orange.fr/"
+external_link: "http://www-public.imtbs-tsp.eu/~monfrini/"
 
 # Is this the primary user of the site?
 superuser: false

@@ -1,8 +1,8 @@
 ---
 # Display name
-title: Marc-Olivier Buob
+title: Yohan Petetin
 
-external_link: "http://marcolivier.buob.pagesperso-orange.fr/"
+external_link: "http://www-public.imtbs-tsp.eu/~petetin/"
 
 # Is this the primary user of the site?
 superuser: false

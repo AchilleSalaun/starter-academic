@@ -2,13 +2,13 @@
 title: "DIG-DAG: stockage et recherche de motifs dans un flux d'événements"
 
 # Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Anne Bouillard
-- Marc-Olivier Buob
+- anne
+- marco
 - admin
-- Maxime Raynal
+- maxime
 
 # Author notes (optional)
 #author_notes:
@@ -31,19 +31,19 @@ publication_types: ["1"]
 publication: "In *ALGOTEL 2020: 22èmes Rencontres Francophones sur les Aspects Algorithmiques des Télécommunications*"
 publication_short: In *ALGOTEL 2020*
 
-abstract: "La recherche de motifs dans une chaîne de caractères se réalise facilement 
-avec un outil tel que grep. 
-Dans cet article, nous considérons un flux d’événements caractérisés par une date de début 
-et de fin. La recherche de motifs dans une telle structure devient alors plus complexe. 
-Afin de réaliser efficacement cette opération, nous proposons une nouvelle structure, 
-appelée DIG-DAG (Directed Interval Graph - Directed Acyclic Graph). 
-Nous montrons comment construire de manière compacte cette structure lorsque 
-le flux est découvert à la volée. 
-Nous expliquons ensuite comment extraire du DIG-DAG les motifs conformes à la requête 
-d’un utilisateur. 
-Enfin, nous illustrons l’utilisation de ces algorithmes sur des traces réelles issues 
-de réseaux GSM. 
-Cet article synthétise deux articles publiés dans [CNSM’2018](https://achillesalaun.netlify.app/publication/2018_cnsm/) 
+abstract: "La recherche de motifs dans une chaîne de caractères se réalise facilement
+avec un outil tel que grep.
+Dans cet article, nous considérons un flux d’événements caractérisés par une date de début
+et de fin. La recherche de motifs dans une telle structure devient alors plus complexe.
+Afin de réaliser efficacement cette opération, nous proposons une nouvelle structure,
+appelée DIG-DAG (Directed Interval Graph - Directed Acyclic Graph).
+Nous montrons comment construire de manière compacte cette structure lorsque
+le flux est découvert à la volée.
+Nous expliquons ensuite comment extraire du DIG-DAG les motifs conformes à la requête
+d’un utilisateur.
+Enfin, nous illustrons l’utilisation de ces algorithmes sur des traces réelles issues
+de réseaux GSM.
+Cet article synthétise deux articles publiés dans [CNSM’2018](https://achillesalaun.netlify.app/publication/2018_cnsm/)
 et [MLN’2019](https://achillesalaun.netlify.app/publication/2019_mln/)."
 
 # Summary. An optional shortened abstract.
@@ -69,7 +69,7 @@ url_source: ''
 url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""

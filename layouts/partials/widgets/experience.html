@@ -65,7 +65,39 @@
           </div>
           {{end}}
 
-          {{with .description}}<div class="card-text">{{. | markdownify | emojify}}</div>{{end}}
+          {{with .description}}
+          <!-- loof for mentions shortcodes in description -->
+          {{$description := .}}
+          {{ $mentions := findRE "{{< mention \"([a-z]*)\" >}}" .}}
+          {{ range $mentions }}
+              <!-- inspired from layouts/shortcodes/mention.html -->
+              <!-- for each mention get username and profile_page -->
+              {{ $mention := . }}
+              {{$username := replaceRE "{{< mention \"([a-z]*)\" >}}" "$1" . }}
+              {{ $username_url := $username | urlize }}
+              {{ $taxonomy := "authors" }}
+              {{ $profile_page := site.GetPage (printf "/%s/%s" $taxonomy $username_url) }}
+              {{ $name := $profile_page.Title | default ($username|markdownify) }}
+
+              <!-- then craft HTML with regards to external_link / profile_page existence -->
+              {{ $html := $name }}
+              {{ with $profile_page }}
+                  {{ with $profile_page.Params.external_link }}
+                    {{ $html = printf "<a href='%s'>%s</a>" $profile_page.Params.external_link $name }}
+                  {{ else }}
+                    {{ $html = printf "<a href='%s'>%s</a>" $profile_page.RelPermalink $name }}
+                  {{ end }}
+              {{ end }}
+              {{
+                $html = printf "<span class='article-metadata li-cite-author'>%s</span>" $html
+              }}
+
+              <!-- inject HTML into description -->
+              {{ $description = replaceRE $mention $html $description}}
+          {{ end }}
+
+          <!-- use $description not current context . -->
+          <div class="card-text">{{$description | markdownify | emojify}}</div>{{end}}
         </div>
       </div>
     </div>

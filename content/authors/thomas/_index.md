@@ -1,8 +1,8 @@
 ---
 # Display name
-title: Marc-Olivier Buob
+title: Thomas Bonald
 
-external_link: "http://marcolivier.buob.pagesperso-orange.fr/"
+external_link: "https://perso.telecom-paristech.fr/bonald/Home_page.html"
 
 # Is this the primary user of the site?
 superuser: false
