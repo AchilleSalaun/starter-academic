@@ -8,9 +8,9 @@
 
     {{- if gt $index 0 }}, {{ end -}}
 
-    <!-- INDEX: {{ $index }}
-    VALUE: {{ $value }}
-    PARAMS: {{ $value.Params.external_link}} -->
+    <!-- INDEX: {{ $index }} -->
+    <!-- VALUE: {{ $value }} -->
+    <!-- PARAMS: {{ $value.Params.external_link}} -->
 
     <span {{ if $highlight_name }}class="author-highlighted"{{end}}>
       {{/* Effectively check the page's `_build` option as `_build` is not exposed in Hugo's Page object. */}}
