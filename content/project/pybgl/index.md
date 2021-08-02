@@ -7,7 +7,7 @@ My work on this library has been the opportunity for me to bring some minor cont
 "
 tags:
 - digdag
-date: "2016-04-27T00:00:00Z"
+date: "2020-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/nokia/PyBGL"
