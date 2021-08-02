@@ -87,7 +87,7 @@ user_groups:
 
 I am a graduate Télécom Paris engineer since 2017.
 In particular, I followed the EURECOM cursus where I specialized in Data Science from 2015-2017.
-I received a PhD in mathematics at interfaces from the Institut Polytechnique de Paris.
+I received a PhD in computational mathematics (_mathématiques aux interfaces_ in French) from the Institut Polytechnique de Paris.
 This was an industrial PhD (CIFRE) with [Télécom SudParis (SAMOVAR)](https://samovar.telecom-sudparis.eu/) and [Nokia Bell Labs](https://www.bell-labs.com/) supervised by {{< mention "francois" >}}, {{< mention "anne" >}}, {{< mention "marco" >}}, and {{< mention "yohan" >}}.
 My work was about predicting alarms in networks via space-time pattern matching
 and machine learning.

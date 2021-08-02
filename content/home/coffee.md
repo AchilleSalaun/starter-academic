@@ -49,7 +49,7 @@ if we meet around a cup of coffee (it can be a glass of water as well)!
     you can have a look on my creations there :point_right:
     <a href="https://www.instagram.com/achillesalaun/">{{< icon name="instagram"  pack="fab" >}}</a>
     <a href="https://www.artstation.com/achille_salaun/">{{< icon name="artstation" pack="fab" >}}</a>!
-    One of my dream would be to draw my own comic book. Who knows, maybe one day?
+    One of my dreams would be to draw my own comic book. Who knows, maybe one day?
   </div>
 </div>
 
