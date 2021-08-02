@@ -68,12 +68,12 @@
           {{with .description}}
           <!-- loof for mentions shortcodes in description -->
           {{$description := .}}
-          {{ $mentions := findRE "{{< mention \"([a-z]*)\" >}}" .}}
+          {{ $mentions := findRE "{{< mention \\"([a-z]*)\\" >}}" .}}
           {{ range $mentions }}
               <!-- inspired from layouts/shortcodes/mention.html -->
               <!-- for each mention get username and profile_page -->
               {{ $mention := . }}
-              {{$username := replaceRE "{{< mention \"([a-z]*)\" >}}" "$1" . }}
+              {{$username := replaceRE "{{< mention \\"([a-z]*)\\" >}}" "$1" . }}
               {{ $username_url := $username | urlize }}
               {{ $taxonomy := "authors" }}
               {{ $profile_page := site.GetPage (printf "/%s/%s" $taxonomy $username_url) }}
