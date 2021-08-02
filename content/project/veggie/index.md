@@ -3,7 +3,7 @@ title: Veggie
 summary: "<div><p>Veggie is Python framework allowing to manipulates tries, automaton and more generally data structure used in language theory. In particular, it provides an implementation of our
 algorithms related to DIG-DAG.</p>
 
-<p>T=In particular, this work has been at the core of a collaboration with Nokia's business units.</p>
+<p>In particular, this work has been at the core of a collaboration with Nokia's business units.</p>
 
 <p>This library is based on Pybgl.</p></div>
 "

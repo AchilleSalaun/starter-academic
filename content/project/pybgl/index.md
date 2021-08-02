@@ -2,8 +2,8 @@
 title: Pybgl
 summary: "
 <p>A  pure python graph library inspired from the BGL (Boost Graph Library).</p>
-<p>In particular, Pybgl is used by Veggie:
-working on this library has been the opportunity for me to bring some minor contributions to Pybgl.</p>
+<p>Pybgl is used by Veggie.
+My work on this library has been the opportunity for me to bring some minor contributions to Pybgl.</p>
 "
 tags:
 - digdag
