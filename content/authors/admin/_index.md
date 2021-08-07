@@ -35,7 +35,7 @@ education:
   - course: Master's degree in Data Science and Engineering
     institution: EURECOM
     year: 2015-2017
-  - course:  Engineering degree
+  - course:  Diplôme d'ingénieur
     institution: Télécom Paris
     year: 2014-2017
 
