@@ -43,8 +43,8 @@ Nous expliquons ensuite comment extraire du DIG-DAG les motifs conformes à la r
 d’un utilisateur.
 Enfin, nous illustrons l’utilisation de ces algorithmes sur des traces réelles issues
 de réseaux GSM.
-Cet article synthétise deux articles publiés dans [CNSM’2018](https://achillesalaun.netlify.app/publication/2018_cnsm/)
-et [MLN’2019](https://achillesalaun.netlify.app/publication/2019_mln/)."
+Cet article synthétise deux articles publiés dans [CNSM’2018](https://achillesalaun.github.io/publication/2018_cnsm/)
+et [MLN’2019](https://achillesalaun.github.io/publication/2019_mln/)."
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

@@ -41,7 +41,7 @@ Apart from the theoretical work, my thesis shows a strong applied component.
 Indeed, Anne, Marc-Olivier and I implemented our DIG-DAG related algorithms into a Python 3 module,
 which has been at the core of a collaboration with Nokia's business units.
 
-Please follow this [link](https://achillesalaun.netlify.app/publication/2021_thesis/) for more details about my thesis.
+Please follow this [link](https://achillesalaun.github.io/publication/2021_thesis/) for more details about my thesis.
 """
 
 [[experience]]
