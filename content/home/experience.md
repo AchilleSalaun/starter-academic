@@ -53,7 +53,7 @@ Please follow this [link](https://achillesalaun.github.io/publication/2021_thesi
   date_start = "2018-09-01"
   date_end = "2020-11-01"
   description = """
-For two consecutive years, I supervised labs sessions for a course on
+For two consecutive years, I supervised lab sessions for a course on
 [Scientific Calculus](https://enseignements.telecom-sudparis.eu/fiche.php?m=20385&complete) (Master 1)
 and another one on
 [Image Segmentation with Hidden Markov Models](https://enseignements.telecom-sudparis.eu/fiche.php?m=7349&complete) (Master 2)
