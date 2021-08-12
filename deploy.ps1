@@ -1,3 +1,5 @@
+D: ;
+cd .\Achille\Travail\Git\page_perso\ ;
 hugo ;
 cd .\public\ ;
 git add . ;
