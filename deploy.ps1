@@ -1,6 +1,6 @@
 D: ;
 cd .\Achille\Travail\Git\page_perso\ ;
-$date = Get-Date
+$date = Get-Date ;
 hugo ;
 cd .\public\ ;
 git add . ;
