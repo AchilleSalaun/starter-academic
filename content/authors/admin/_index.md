@@ -86,14 +86,13 @@ user_groups:
 ---
 
 I am a graduate Télécom Paris engineer since 2017.
-In particular, I followed the EURECOM cursus where I specialized in Data Science from 2015-2017.
-I received a PhD in computational mathematics (_mathématiques aux interfaces_ in French) from the Institut Polytechnique de Paris.
+Notably, I followed the EURECOM cursus where I specialized in Data Science from 2015-2017.
+In 2021, I received a PhD in computational mathematics (_mathématiques aux interfaces_ in French) from the Institut Polytechnique de Paris.
 This was an industrial PhD (CIFRE) with [Télécom SudParis (SAMOVAR)](https://samovar.telecom-sudparis.eu/) and [Nokia Bell Labs](https://www.bell-labs.com/) supervised by {{< mention "francois" >}}, {{< mention "anne" >}}, {{< mention "marco" >}}, and {{< mention "yohan" >}}.
-My work was about predicting alarms in networks via space-time pattern matching
-and machine learning.
+During that time, I focused on alarm prediction in telecommunication networks via space-time pattern matching and machine learning,
+aiming to provide experts with tools to understand how failures cascade across telecommunication networks.
 
-I recently defended my thesis and am eager to take my next step in the research world!
-In particular, I feel like I still have a lot to discover from both a human and scientific perspective.
-Therefore, **I am currently looking for a postDoc abroad** (ideally in Eastern Asia).
+Currently, I work as a postdoc at the [Oxford Institute of Biomedical Engineering](https://eng.ox.ac.uk/) (part of the [Department of Engineering](https://ibme.ox.ac.uk/) of the [University of Oxford](https://www.ox.ac.uk/)), within the [CHI Lab](https://eng.ox.ac.uk/chi/).
+With {{< mention "tingting">}}, {{< mention "simon">}}, and {{< mention "laura">}}, I develop interpretable AI tools to support clinical decisions in organ transplantation.
 
 Feel free to reach out to me at {{< obfuscated_email "npuvyyrfnynha@tznvy.pbz">}}.
