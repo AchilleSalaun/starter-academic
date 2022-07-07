@@ -27,8 +27,52 @@ To help us develop this template and software sustainably under the MIT license,
 
 [![Screenshot](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png)](https://wowchemy.com)
 
-# Additional Notes
-To deploy this website, please follow the steps:
+# Additional Notes (for me)
+
+This repository is bounded to the repository [https://github.com/AchilleSalaun/starter-academic](https://github.com/AchilleSalaun/starter-academic): it is used to modify and deploy my [personal webpage](https://achillesalaun.github.io/) through the repository [https://github.com/AchilleSalaun/achillesalaun.github.io](https://github.com/AchilleSalaun/achillesalaun.github.io).
+
+Hence, to update my personal webpage, make your changes and push to [https://github.com/AchilleSalaun/starter-academic](https://github.com/AchilleSalaun/starter-academic).
+Then,
+
+## If you are on Windows
+
+Run the following command lines in a Power Shell:
+
+Go to your working directory.
+For instance:
+
+```
+D: ;
+cd .\Achille\Travail\Git\page_perso\ ;
+```
+
+Build the webpage by running Hugo:
+
+```
+hugo ;
+```
+
+Commit the generated changes made by Hugo:
+
+```
+$date = Get-Date ;
+cd .\public\ ;
+git add . ;
+git commit -m "Deploy [$date]" ;
+git push origin master ;
+```
+
+You are done!
+
+You can have a look at the deployment status of the webpage [here](https://github.com/AchilleSalaun/achillesalaun.github.io/deployments/activity_log?environment=github-pages).
+
+Obviously, make sure you have all the credentials required to push on the different repositories.
+
+**Note:** sometimes, Hugo's module cache needs to be cleared:
+```
+hugo mod clean
+hugo server
+```
 
 <!--
 [![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/academic-kickstart/readme?pixel)](https://github.com/igrigorik/ga-beacon)
