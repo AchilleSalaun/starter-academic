@@ -26,6 +26,7 @@ interests:
 - Machine Learning
 - Pattern matching
 - Generative models
+- Interpretability
 
 education:
   courses:

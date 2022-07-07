@@ -22,6 +22,9 @@ design:
 
 ---
 
+- {{< mention "tingting" >}}
+- {{< mention "simon" >}}
+- {{< mention "laura" >}}
 - {{< mention "francois" >}}
 - {{<mention "anne" >}}
 - {{< mention "marco" >}}
