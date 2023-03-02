@@ -9,7 +9,6 @@ algorithms related to DIG-DAG.</p>
 "
 
 tags:
-- featured
 - digdag
 
 date: "2021-01-01T00:00:00Z"
