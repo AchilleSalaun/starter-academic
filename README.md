@@ -82,9 +82,8 @@ Once Hugo is installed with:
 sudo snap install hugo
 ```
 
-(If you issues with the path of the installation, please check [here](https://discourse.gohugo.io/t/hugo-installed-with-a-snap-doesnt-work/6472/10).)
-
-Go to your working directory and make your changes.
+(If you encounter issues with the path of the installation, please check [here](https://discourse.gohugo.io/t/hugo-installed-with-a-snap-doesnt-work/6472/10).),
+go to your working directory and make your changes.
 For instance in my case:
 
 ```
@@ -98,22 +97,22 @@ hugo server
 ```
 
 If you're really happy about your work: commit and push the changes from your working directory.
-Then, compile the changes with the command
+Then, compile the changes with the command:
 
 ```
 hugo
 ```
 
-before to go in the public sub-directory:
+before to go in the following sub-directory:
 
 ```
 cd ./public
 ```
 
-where you can commit and push the changes made by Hugo.
+where you can commit and push the changes made by Hugo. Note that this is a second git repository linked to your GitHub page.
 
 If you are setting up a new working directory, you may have to re-set up that second git repository again.
-In that case, help can be found [here](https://levelup.gitconnected.com/build-a-personal-website-with-github-pages-and-hugo-6c68592204c7).
+In that case, instructions can be found [here](https://levelup.gitconnected.com/build-a-personal-website-with-github-pages-and-hugo-6c68592204c7).
 
 <!--
 [![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/academic-kickstart/readme?pixel)](https://github.com/igrigorik/ga-beacon)
