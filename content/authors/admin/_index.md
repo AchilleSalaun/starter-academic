@@ -24,9 +24,9 @@ organizations:
 
 interests:
 - Machine Learning
+- Interpretability
 - Pattern matching
 - Generative models
-- Interpretability
 
 education:
   courses:
@@ -96,4 +96,6 @@ aiming to provide experts with tools to understand how failures cascade across t
 Currently, I work as a postdoc at the [Oxford Institute of Biomedical Engineering](https://eng.ox.ac.uk/) (part of the [Department of Engineering](https://ibme.ox.ac.uk/) of the [University of Oxford](https://www.ox.ac.uk/)), within the [CHI Lab](https://eng.ox.ac.uk/chi/).
 With {{< mention "tingting">}}, {{< mention "simon">}}, and {{< mention "laura">}}, I develop interpretable AI tools to support clinical decisions in organ transplantation.
 
-Feel free to reach out to me at {{< obfuscated_email "npuvyyrfnynha@tznvy.pbz">}}.
+Feel free to reach out to me at {{< obfuscated_email "npuvyyr.fnynha@rat.bk.np.hx">}}.
+
+<!-- npuvyyrfnynha@tznvy.pbz -->

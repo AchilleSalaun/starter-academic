@@ -55,9 +55,8 @@ if we meet around a cup of coffee (it can be a glass of water as well)!
 
 <div class="clearfix">
   <div class="txt-container-l">
-    I used to do <strong>fencing</strong> until the pandemic struck.
-    I hope I can go back on pistes soon !
-    Meanwhile, I enjoy jogging at the Bois de Vincennes from time to time.
+    I am fond of <strong>fencing</strong>, an activity that can be a sport, a game, and an art at the same time.
+    When I'm not on the pistes, I can also enjoy a good run from time to time.
   </div>
   <div class="img-container-r">
   {{<figure src="fencing_mini.png">}}

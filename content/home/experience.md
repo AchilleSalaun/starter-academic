@@ -18,6 +18,23 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+[[experience]]
+  title = "Explainable machine learning models for clinical decision support in kidney transplant offering"
+  company = "CHI Lab, IBME, Department of Engineering, University of Oxford"
+  company_url = ""
+#  company_logo = "ipp"
+  location = "Oxford, United Kingdom"
+  date_start = "2022-05-15"
+  date_end = ""
+# "2023-05-03"
+  description = """
+In collaboration with {{< mention "tingting" >}} at the [CHI Lab](https://eng.ox.ac.uk/chi/), [IBME](https://ibme.ox.ac.uk/), University of Oxford, and the clinicians {{< mention "simon" >}} and {{< mention "laura" >}}, I contribute to the construction of a computerised decision support system (CDSS) to help surgeons and patients understand if a given organ offer is a suitable one, or if it is preferable to wait for another one.
+
+More precisely, given more than twenty years of data provided by the National Institute for Health and Care Research ([NIHR](https://www.nihr.ac.uk/)) with ethical approval, we develop machine learning models predicting transplant outcomes (graft failure and patient death) in the case of an accepted offer, or telling what could happen in the case of a denied one. 
+These models are supported by interpretability methods.
+"""
+
 [[experience]]
   title = "PhD: Alarm prediction in networks via space-time pattern matching and machine learning"
   company = "Institut Polytechnique de Paris"
