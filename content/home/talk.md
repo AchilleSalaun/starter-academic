@@ -49,8 +49,17 @@ design:
 <div style="padding-bottom: 30px;">
 <h2>
 Featured
-</h2> 
-{{< youtube "https://youtu.be/rCe7-TUnpTA" >}}
+</h2>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<iframe 
+    src="https://www.youtube.com/embed/rCe7-TUnpTA" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" 
+    title="Interpretable machine learning for graft outcome prediction"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen
+></iframe>
+</div>
 Interpretable machine learning for graft outcome prediction
 </div>
+<!--{{< youtube "https://youtu.be/rCe7-TUnpTA" >}}-->
 <!-- <iframe width="830" height="467" src="https://www.youtube.com/embed/rCe7-TUnpTA" title="Oxford Global 2023 - &quot;Interpretable machine learning for graft outcome prediction&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->

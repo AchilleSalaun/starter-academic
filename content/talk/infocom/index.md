@@ -33,5 +33,12 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-
-{{< youtube "https://youtu.be/lCMQLsoLCoY" >}}
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<iframe 
+    src="https://www.youtube.com/embed/lCMQLsoLCoY" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" 
+    title="End-to-end root cause analysis of a mobile network"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen
+></iframe>
+</div>
