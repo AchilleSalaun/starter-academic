@@ -1,20 +1,20 @@
 ---
-title: Xamelot
-summary: "<div>Xamelot is a library containing the code supporting my work about explainable machine learning for organ transplant. 
-Notably, it offers various tools for data cleaning, model training and benchmarking.</div>
-"
+title: Prédiction d'alarmes dans les réseaux via la recherche de motifs spatio-temporels et l'apprentissage automatique
+summary: "PhD defense"
 
 tags:
-- Organ transplant
+- DIG-DAG
 
-date: "2023-03-01T00:00:00Z"
+date: "2021-07-08T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/AchilleSalaun/Xamelot"
+external_link: ""
 
 #image:
 #  caption: Photo by rawpixel on Unsplash
 #  focal_point: Smart
+image:
+    preview_only: true
 
 #links:
 #- icon: twitter
@@ -33,3 +33,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+{{< youtube "https://youtu.be/_k5j1t9okRE" >}}
+

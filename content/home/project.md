@@ -28,9 +28,9 @@ content:
   - name: All
     tag: '*'
   - name: Organ transplant
-    tag: organ
+    tag: Organ transplant
   - name: DIG-DAG
-    tag: digdag
+    tag: DIG-DAG
     
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

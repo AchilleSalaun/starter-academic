@@ -1,10 +1,9 @@
 ---
-# title: Interpretable machine learning for graft outcome prediction - Presentation for Oxford Global
-# summary: ""
+title: End-to-end root cause analysis of a mobile network
+summary: "IEEE INFOCOM 2020"
 
 tags:
-- digdag
-- featured
+- DIG-DAG
 
 date: "2020-07-06T00:00:00Z"
 
@@ -14,6 +13,8 @@ external_link: ""
 #image:
 #  caption: Photo by rawpixel on Unsplash
 #  focal_point: Smart
+image:
+    preview_only: true
 
 #links:
 #- icon: twitter
@@ -32,7 +33,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-<div>
-Coucou
+
 {{< youtube "https://youtu.be/lCMQLsoLCoY" >}}
-</div>

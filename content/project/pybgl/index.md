@@ -7,7 +7,7 @@ My work on the latter has been the opportunity for me to bring some minor contri
 "
 
 tags:
-- digdag
+- DIG-DAG
 
 date: "2020-01-01T00:00:00Z"
 

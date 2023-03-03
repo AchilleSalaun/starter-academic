@@ -1,10 +1,9 @@
 ---
-# title: Interpretable machine learning for graft outcome prediction - Presentation for Oxford Global
-# summary: ""
+title: Interpretable machine learning for graft outcome prediction
+summary: "Presentation for Oxford Global"
 
 tags:
-- organ
-- featured
+- Organ transplant
 
 date: "2023-01-26T00:00:00Z"
 
@@ -14,6 +13,8 @@ external_link: ""
 #image:
 #  caption: Photo by rawpixel on Unsplash
 #  focal_point: Smart
+image:
+    preview_only: true
 
 #links:
 #- icon: twitter
@@ -32,6 +33,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-<iframe width="560" height="315" src="https://youtu.be/rCe7-TUnpTA" frameborder="0" allowfullscreen></iframe>
-<!-- {{< youtube "https://youtu.be/rCe7-TUnpTA" >}} -->
+{{< youtube "https://youtu.be/rCe7-TUnpTA" >}}
 
